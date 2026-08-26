@@ -734,7 +734,7 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
@@ -771,11 +771,27 @@
     "potencia": "110 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-frente.png"
+      },
+      {
+        "nombre": "Frente3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-lateral.png"
+      },
+      {
+        "nombre": "Posterior3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-virtus-2019-negro-post.png"
       }
     ]
   },
@@ -792,11 +808,27 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2021-blanco.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2021-blanco.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-frente.png"
+      },
+      {
+        "nombre": "Frente3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-lateral.png"
+      },
+      {
+        "nombre": "Posterior3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2019-blanco-post.png"
       }
     ]
   },
@@ -813,11 +845,27 @@
     "potencia": "110 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "45 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-frente.png"
+      },
+      {
+        "nombre": "Frente3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-lateral.png"
+      },
+      {
+        "nombre": "Posterior3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-polo-track-2025-blanco-post.png"
       }
     ]
   }

@@ -22,5 +22,229 @@
     "marca": "Peugeot",
     "modelo": "Partner",
     "imagen": "img/entregas/entrega-2026-08-20-2.png"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-08-20",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-08-20-1.png"
+  },
+  {
+    "id": 5,
+    "fecha": "2026-08-05",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2026-08-05.png"
+  },
+  {
+    "id": 6,
+    "fecha": "2026-07-30",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Clio Mio",
+    "imagen": "img/entregas/entrega-2026-07-30.png"
+  },
+  {
+    "id": 7,
+    "fecha": "2026-08-08",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz Plus",
+    "imagen": "img/entregas/entrega-2026-08-08.png"
+  },
+  {
+    "id": 8,
+    "fecha": "2026-07-29",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Strada",
+    "imagen": "img/entregas/entrega-2026-07-29.png"
+  },
+  {
+    "id": 9,
+    "fecha": "2026-07-27",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2026-07-27.png"
+  },
+  {
+    "id": 10,
+    "fecha": "2026-07-18",
+    "orden": 2,
+    "marca": "Volkswagen",
+    "modelo": "Voyage",
+    "imagen": "img/entregas/entrega-2026-07-18-2.png"
+  },
+  {
+    "id": 11,
+    "fecha": "2026-07-18",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Voyage",
+    "imagen": "img/entregas/entrega-2026-07-18-1.png"
+  },
+  {
+    "id": 12,
+    "fecha": "2026-07-14",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ecosport",
+    "imagen": "img/entregas/entrega-2026-07-14.png"
+  },
+  {
+    "id": 13,
+    "fecha": "2026-08-14",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2026-08-14.png"
+  },
+  {
+    "id": 14,
+    "fecha": "2026-07-02",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-07-02-2.png"
+  },
+  {
+    "id": 14,
+    "fecha": "2026-07-02",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "imagen": "img/entregas/entrega-2026-07-02-1.png"
+  },
+  {
+    "id": 15,
+    "fecha": "2026-07-01",
+    "orden": 2,
+    "marca": "Fiat",
+    "modelo": "Mobi",
+    "imagen": "img/entregas/entrega-2026-07-01-2.png"
+  },
+  {
+    "id": 16,
+    "fecha": "2026-07-01",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2026-07-01-1.png"
+  },
+  {
+    "id": 17,
+    "fecha": "2026-06-30",
+    "orden": 3,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-06-30-3.png"
+  },
+  {
+    "id": 18,
+    "fecha": "2026-06-30",
+    "orden": 2,
+    "marca": "Volkswagen",
+    "modelo": "Amarok 4x2",
+    "imagen": "img/entregas/entrega-2026-06-30-2.png"
+  },
+  {
+    "id": 19,
+    "fecha": "2026-06-30",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-06-30-1.png"
+  },
+  {
+    "id": 20,
+    "fecha": "2026-06-27",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Power",
+    "imagen": "img/entregas/entrega-2026-06-27.png"
+  },
+  {
+    "id": 21,
+    "fecha": "2026-06-24",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2026-06-24.png"
+  },
+  {
+    "id": 22,
+    "fecha": "2026-06-23",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2",
+    "imagen": "img/entregas/entrega-2026-06-23.png"
+  },
+  {
+    "id": 23,
+    "fecha": "2026-06-19",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-06-19.png"
+  },
+  {
+    "id": 24,
+    "fecha": "2026-06-17",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ka SEL Plus",
+    "imagen": "img/entregas/entrega-2026-06-17.png"
+  },
+  {
+    "id": 25,
+    "fecha": "2026-06-11",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-06-11.png"
+  },
+  {
+    "id": 26,
+    "fecha": "2026-06-10",
+    "orden": 2,
+    "marca": "Peugeot",
+    "modelo": "207",
+    "imagen": "img/entregas/entrega-2026-06-10-2.png"
+  },
+  {
+    "id": 26,
+    "fecha": "2026-06-10",
+    "orden": 1,
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "imagen": "img/entregas/entrega-2026-06-10-1.png"
+  },
+  {
+    "id": 27,
+    "fecha": "2026-06-08",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ka Viral",
+    "imagen": "img/entregas/entrega-2026-06-08.png"
+  },
+  {
+    "id": 28,
+    "fecha": "2026-06-05",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2026-06-05.png"
+  },
+  {
+    "id": 29,
+    "fecha": "2026-06-02",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Palio Attractive",
+    "imagen": "img/entregas/entrega-2026-06-02.png"
   }
 ]

@@ -1,0 +1,9 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración local de VS Code (si la creás en el proyecto)
+.vscode/
+
+# Archivos temporales
+*.log

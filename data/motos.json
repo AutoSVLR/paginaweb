@@ -1,0 +1,1127 @@
+[
+  {
+    "id": 1,
+    "marca": "Honda",
+    "modelo": "Wave S 110cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.7 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/HONDA/honda-wave110-rojo.png",
+    "colores": [
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-wave110-rojo.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/HONDA/honda-wave110-negro.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#9E9E9E",
+        "imagen": "img/motos/HONDA/honda-wave110-gris.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#FFFFFF",
+        "imagen": "img/motos/HONDA/honda-wave110-blanco.png"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "marca": "Honda",
+    "modelo": "Navi 110cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Automático, CVT",
+    "combustible": "3.5 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/HONDA/honda-navi110.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-navi110.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-navi110.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-navi110.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "marca": "Honda",
+    "modelo": "GLH 150cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12.7 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/HONDA/honda-glh150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-glh150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-glh150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-glh150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 4,
+    "marca": "Honda",
+    "modelo": "Twister 125cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Manual, 4 velocidades",
+    "combustible": "10.1 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/HONDA/honda-twister125.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-twister125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-twister125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-twister125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "marca": "Honda",
+    "modelo": "Twister 300cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "300cc",
+    "transmision": "Manual, 6 velocidades",
+    "combustible": "14.1 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/HONDA/honda-twister300.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/HONDA/honda-twister300.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-twister300.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-twister300.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "marca": "Honda",
+    "modelo": "XR 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/HONDA/honda-xr150.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/HONDA/honda-xr150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-xr150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-xr150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "marca": "Honda",
+    "modelo": "XR 190cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "190cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/HONDA/honda-xr190.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/HONDA/honda-xr190.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-xr190.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-xr190.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "marca": "Honda",
+    "modelo": "XR 300cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "300cc",
+    "transmision": "Manual, 6 velocidades",
+    "combustible": "13.8 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/HONDA/honda-xr300.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/HONDA/honda-xr300.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/HONDA/honda-xr300.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/HONDA/honda-xr300.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 9,
+    "marca": "Yamaha",
+    "modelo": "XTZ 125cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "11 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/YAMAHA/yamaha-xtz125.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": 10,
+    "marca": "Yamaha",
+    "modelo": "FZ 150cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "13 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/YAMAHA/yamaha-fz150.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 11,
+    "marca": "Yamaha",
+    "modelo": "FZ 250cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "250cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "14 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/YAMAHA/yamaha-fz250.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "marca": "Bajaj",
+    "modelo": "Boxer 150cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "11 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/BAJAJ/bajaj-boxer150.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 13,
+    "marca": "Bajaj",
+    "modelo": "Rouser NS 125cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "10.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 14,
+    "marca": "Bajaj",
+    "modelo": "Rouser NS 160cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "160cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 15,
+    "marca": "Bajaj",
+    "modelo": "Rouser NS 200cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "200cc",
+    "transmision": "Manual, 6 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 16,
+    "marca": "Gilera",
+    "modelo": "Smash 110cc FULL",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "4.1 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/GILERA/gilera-smash110full.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/GILERA/gilera-smash110full.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/GILERA/gilera-smash110full.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/GILERA/gilera-smash110full.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 17,
+    "marca": "Gilera",
+    "modelo": "Smash 125cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "4.5 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/GILERA/gilera-smash125.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/GILERA/gilera-smash125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/GILERA/gilera-smash125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/GILERA/gilera-smash125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 18,
+    "marca": "Gilera",
+    "modelo": "Sahel 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "8.6 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/GILERA/gilera-sahel150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/GILERA/gilera-sahel150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/GILERA/gilera-sahel150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/GILERA/gilera-sahel150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 19,
+    "marca": "Zanella",
+    "modelo": "Hot 90cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "90cc",
+    "transmision": "Automático, 4 velocidades",
+    "combustible": "2.5 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-hot90.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 20,
+    "marca": "Zanella",
+    "modelo": "ZB 110cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.2 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-zb110.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 21,
+    "marca": "Zanella",
+    "modelo": "ZB 110cc FULL",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.2 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-zb110full.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 22,
+    "marca": "Zanella",
+    "modelo": "ZB 125cc",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-zb125.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 23,
+    "marca": "Zanella",
+    "modelo": "RX 150cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-rx150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 24,
+    "marca": "Zanella",
+    "modelo": "ZT 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-zt150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 25,
+    "marca": "Zanella",
+    "modelo": "ZR 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "149.5cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/ZANELLA/zanella-zr150.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 26,
+    "marca": "Motomel",
+    "modelo": "Blitz 110cc C/D",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/MOTOMEL/motomel-blitz110.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 27,
+    "marca": "Motomel",
+    "modelo": "Blitz 110cc Plus",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 28,
+    "marca": "Motomel",
+    "modelo": "S2 150cc",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "11 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/MOTOMEL/motomel-s2150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 29,
+    "marca": "Motomel",
+    "modelo": "S2 150cc FULL",
+    "anio": 2026,
+    "tipo": "Street",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "11 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/MOTOMEL/motomel-s2150full.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 30,
+    "marca": "Motomel",
+    "modelo": "SKUA 125cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "7.5 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/MOTOMEL/motomel-skua125.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 31,
+    "marca": "Motomel",
+    "modelo": "SKUA 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "11.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/MOTOMEL/motomel-skua150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 32,
+    "marca": "Motomel",
+    "modelo": "SKUA 250cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "250cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12.3 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/MOTOMEL/motomel-skua250.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 33,
+    "marca": "Corven",
+    "modelo": "Energy 110cc FULL",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "4 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/CORVEN/corven-energy110full.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/CORVEN/corven-energy110full.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/CORVEN/corven-energy110full.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/CORVEN/corven-energy110full.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 34,
+    "marca": "Corven",
+    "modelo": "Triax 150cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "150cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/CORVEN/corven-triax150.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/CORVEN/corven-triax150.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/CORVEN/corven-triax150.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/CORVEN/corven-triax150.png"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": 35,
+    "marca": "Corven",
+    "modelo": "Triax 250cc",
+    "anio": 2026,
+    "tipo": "ON/OFF",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "250cc",
+    "transmision": "Manual, 5 velocidades",
+    "combustible": "12 L",
+    "frenos": "Disco",
+    "imagen": "img/motos/CORVEN/corven-triax250.png",
+    "colores": [
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/CORVEN/corven-triax250.png"
+      },
+      {
+        "nombre": "Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/CORVEN/corven-triax250.png"
+      },
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/CORVEN/corven-triax250.png"
+      }
+    ],
+    "destacado": false
+  }
+]

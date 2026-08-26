@@ -246,5 +246,13 @@
     "marca": "Fiat",
     "modelo": "Palio Attractive",
     "imagen": "img/entregas/entrega-2026-06-02.png"
+  },
+  {
+    "id": 30,
+    "fecha": "2026-08-26",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Argo",
+    "imagen": "img/entregas/entrega-2026-08-26.png"
   }
 ]

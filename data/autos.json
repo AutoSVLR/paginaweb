@@ -608,11 +608,27 @@
     "potencia": "211 HP",
     "transmision": "Automático 6 velocidades",
     "combustible": "70 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-frente.png"
+      },
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-lateral.png"
+      },
+      {
+        "nombre": "Posterior3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-post.png"
       }
     ]
   },

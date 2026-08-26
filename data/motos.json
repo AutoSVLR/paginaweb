@@ -48,22 +48,32 @@
     "transmision": "Automático, CVT",
     "combustible": "3.5 L",
     "frenos": "Tambor",
-    "imagen": "img/motos/HONDA/honda-navi110.png",
+    "imagen": "img/motos/HONDA/honda-navi110-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/HONDA/honda-navi110.png"
+        "imagen": "img/motos/HONDA/honda-navi110-blanco.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-navi110.png"
+        "imagen": "img/motos/HONDA/honda-navi110-rojo.png"
       },
       {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-navi110.png"
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/HONDA/honda-navi110-negro.png"
+      },
+      {
+        "nombre": "Rosa",
+        "hex": "#F934BD",
+        "imagen": "img/motos/HONDA/honda-navi110-rosa.png"
+      },
+      {
+        "nombre": "Verde",
+        "hex": "#3D4742",
+        "imagen": "img/motos/HONDA/honda-navi110-verde.png"
       }
     ],
     "destacado": false
@@ -80,22 +90,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12.7 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/HONDA/honda-glh150.png",
+    "imagen": "img/motos/HONDA/honda-glh150-gris.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/HONDA/honda-glh150.png"
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/HONDA/honda-glh150-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-glh150.png"
+        "imagen": "img/motos/HONDA/honda-glh150-rojo.png"
       },
       {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-glh150.png"
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/HONDA/honda-glh150-negro.png"
       }
     ],
     "destacado": false

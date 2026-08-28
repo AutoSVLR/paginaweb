@@ -270,5 +270,85 @@
     "marca": "Motomel",
     "modelo": "Blitz",
     "imagen": "img/entregas/entrega-2026-08-28.png"
+  },
+  {
+    "id": 33,
+    "fecha": "2026-05-21",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-05-21.png"
+  },
+  {
+    "id": 34,
+    "fecha": "2026-05-18",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz Plus",
+    "imagen": "img/entregas/entrega-2026-05-18.jpeg"
+  },
+  {
+    "id": 35,
+    "fecha": "2026-05-16",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Triax",
+    "imagen": "img/entregas/entrega-2026-05-16.png"
+  },
+  {
+    "id": 36,
+    "fecha": "2026-05-15",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "XR",
+    "imagen": "img/entregas/entrega-2026-05-15.png"
+  },
+  {
+    "id": 37,
+    "fecha": "2026-05-13",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Twister",
+    "imagen": "img/entregas/entrega-2026-05-13.png"
+  },
+  {
+    "id": 38,
+    "fecha": "2026-05-12",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-05-12.png"
+  },
+  {
+    "id": 39,
+    "fecha": "2026-05-11",
+    "orden": 3,
+    "marca": "Honda",
+    "modelo": "Twister",
+    "imagen": "img/entregas/entrega-2026-05-11-3.png"
+  },
+  {
+    "id": 40,
+    "fecha": "2026-05-11",
+    "orden": 2,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-05-11-2.png"
+  },
+  {
+    "id": 41,
+    "fecha": "2026-05-11",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Twister",
+    "imagen": "img/entregas/entrega-2026-05-11-1.png"
+  },
+  {
+    "id": 42,
+    "fecha": "2026-05-08",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ranger 4x2",
+    "imagen": "img/entregas/entrega-2026-05-08.png"
   }
 ]

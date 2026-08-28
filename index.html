@@ -138,6 +138,108 @@
       </section>
     </main>
 
+    <!-- ===== MODAL DETALLE DE AUTO (reutilizado de autos.html) ===== -->
+    <div class="auto-modal" id="auto-modal" aria-hidden="true">
+      <div class="auto-modal-overlay" id="auto-modal-overlay"></div>
+
+      <div
+        class="auto-modal-content"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="auto-modal-title"
+      >
+        <button
+          class="auto-modal-close"
+          id="auto-modal-close"
+          aria-label="Cerrar"
+        >
+          &times;
+        </button>
+
+        <div class="auto-modal-media">
+          <span class="vehiculo-badge auto-modal-badge" id="auto-modal-badge"
+            >En STOCK</span
+          >
+          <button
+            class="auto-modal-arrow auto-modal-arrow--prev"
+            id="auto-modal-prev"
+            aria-label="Vista anterior"
+          >
+            &#10094;
+          </button>
+          <img src="" alt="" id="auto-modal-img" class="auto-modal-img" />
+          <button
+            class="auto-modal-arrow auto-modal-arrow--next"
+            id="auto-modal-next"
+            aria-label="Vista siguiente"
+          >
+            &#10095;
+          </button>
+        </div>
+
+        <div class="auto-modal-info">
+          <h2 id="auto-modal-title" class="auto-modal-title"></h2>
+          <p id="auto-modal-subtitle" class="auto-modal-subtitle"></p>
+
+          <h3 class="auto-modal-specs-title">ESPECIFICACIONES</h3>
+          <ul class="auto-modal-specs" id="auto-modal-specs"></ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== MODAL DETALLE DE MOTO (reutilizado de motos.html) ===== -->
+    <div class="moto-modal" id="moto-modal" aria-hidden="true">
+      <div class="moto-modal-overlay" id="moto-modal-overlay"></div>
+
+      <div
+        class="moto-modal-content"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="moto-modal-title"
+      >
+        <button
+          class="moto-modal-close"
+          id="moto-modal-close"
+          aria-label="Cerrar"
+        >
+          &times;
+        </button>
+
+        <div class="moto-modal-media">
+          <span class="vehiculo-badge moto-modal-badge" id="moto-modal-badge"
+            >A Pedido</span
+          >
+          <button
+            class="moto-modal-arrow moto-modal-arrow--prev"
+            id="moto-modal-prev"
+            aria-label="Moto anterior"
+          >
+            &#10094;
+          </button>
+          <img src="" alt="" id="moto-modal-img" class="moto-modal-img" />
+          <button
+            class="moto-modal-arrow moto-modal-arrow--next"
+            id="moto-modal-next"
+            aria-label="Moto siguiente"
+          >
+            &#10095;
+          </button>
+        </div>
+
+        <div class="moto-modal-info">
+          <h2 id="moto-modal-title" class="moto-modal-title"></h2>
+          <p id="moto-modal-subtitle" class="moto-modal-subtitle"></p>
+
+          <h3 class="moto-modal-specs-title">ESPECIFICACIONES</h3>
+          <ul class="moto-modal-specs" id="moto-modal-specs"></ul>
+
+          <p class="moto-modal-note">
+            *El color es según disponibilidad del proveedor.
+          </p>
+        </div>
+      </div>
+    </div>
+
     <footer class="site-footer">
       <div class="container footer-grid">
         <div class="footer-col">

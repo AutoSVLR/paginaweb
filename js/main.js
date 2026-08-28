@@ -46,7 +46,7 @@ function crearCardVehiculo(v) {
       : `${condicionTexto} – ${v.anio}`;
 
   return `
-    <article class="vehiculo-card">
+    <article class="vehiculo-card" data-id="${v.id}" data-categoria="${v.categoria}">
       <img src="${v.imagen}" alt="${v.marca} ${v.modelo}" class="vehiculo-img" loading="lazy" />
       <div class="vehiculo-body">
         <h3 class="vehiculo-title">${v.marca} – ${v.modelo}</h3>
@@ -62,6 +62,8 @@ function crearCardVehiculo(v) {
 const destacadosGrid = document.getElementById("destacados-grid");
 
 if (destacadosGrid) {
+  let destacadosData = [];
+
   Promise.all([
     fetch("data/autos.json").then((res) => res.json()),
     fetch("data/motos.json").then((res) => res.json()),
@@ -69,18 +71,257 @@ if (destacadosGrid) {
     .then(([autos, motos]) => {
       const autosConCategoria = autos.map((v) => ({ ...v, categoria: "auto" }));
       const motosConCategoria = motos.map((v) => ({ ...v, categoria: "moto" }));
-      const destacados = [...autosConCategoria, ...motosConCategoria].filter(
+      destacadosData = [...autosConCategoria, ...motosConCategoria].filter(
         (v) => v.destacado,
       );
 
-      destacadosGrid.innerHTML = destacados.length
-        ? destacados.map(crearCardVehiculo).join("")
+      destacadosGrid.innerHTML = destacadosData.length
+        ? destacadosData.map(crearCardVehiculo).join("")
         : "<p>Próximamente nuevos ingresos.</p>";
     })
     .catch(() => {
       destacadosGrid.innerHTML =
         "<p>No se pudieron cargar los destacados. Verificá que estés viendo la página con Live Server.</p>";
     });
+
+  // ===== MODAL DE AUTO (misma lógica y mismos IDs que en autos.html) =====
+  const autoModal = document.getElementById("auto-modal");
+  const autoModalOverlay = document.getElementById("auto-modal-overlay");
+  const autoModalClose = document.getElementById("auto-modal-close");
+  const autoModalPrev = document.getElementById("auto-modal-prev");
+  const autoModalNext = document.getElementById("auto-modal-next");
+  const autoModalImg = document.getElementById("auto-modal-img");
+  const autoModalBadge = document.getElementById("auto-modal-badge");
+  const autoModalTitle = document.getElementById("auto-modal-title");
+  const autoModalSubtitle = document.getElementById("auto-modal-subtitle");
+  const autoModalSpecs = document.getElementById("auto-modal-specs");
+
+  let autoActual = null;
+  let vistaIndexActual = 0;
+
+  function renderSpecsAutoHTML(v) {
+    const specsList = [
+      { icon: "icono-motor.png", value: v.motor },
+      { icon: "icono-potencia.png", value: v.potencia },
+      { icon: "icono-transmision.png", value: v.transmision },
+      { icon: "icono-combustible.png", value: v.combustible },
+      { icon: "icono-puertas.png", value: `${v.puertas} P` },
+    ];
+
+    return specsList
+      .map(
+        (s) => `
+        <li>
+          <img src="img/iconos/${s.icon}" alt="" class="auto-spec-icon" />
+          <span>${s.value}</span>
+        </li>`,
+      )
+      .join("");
+  }
+
+  function actualizarImagenModalAuto() {
+    if (!autoActual) return;
+    const vista = autoActual.vistas[vistaIndexActual];
+    autoModalImg.src = vista.imagen;
+    autoModalImg.alt = `${autoActual.marca} ${autoActual.modelo} - ${vista.nombre}`;
+  }
+
+  function abrirAutoModal(auto) {
+    autoActual = auto;
+    vistaIndexActual = 0;
+
+    const badge = obtenerBadgeInfo(auto.disponibilidad);
+    autoModalBadge.textContent = badge.texto;
+    autoModalBadge.classList.remove(
+      "badge-stock",
+      "badge-pedido",
+      "badge-consignacion",
+    );
+    autoModalBadge.classList.add(badge.clase);
+
+    autoModalTitle.textContent = `${auto.marca} – ${auto.modelo}`;
+    autoModalSubtitle.textContent = `${auto.anio} – ${auto.puertas}P`;
+    autoModalSpecs.innerHTML = renderSpecsAutoHTML(auto);
+
+    actualizarImagenModalAuto();
+
+    autoModal.classList.add("is-open");
+    autoModal.setAttribute("aria-hidden", "false");
+    document.body.classList.add("no-scroll");
+  }
+
+  function cerrarAutoModal() {
+    autoModal.classList.remove("is-open");
+    autoModal.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("no-scroll");
+    autoActual = null;
+  }
+
+  autoModalClose.addEventListener("click", cerrarAutoModal);
+  autoModalOverlay.addEventListener("click", cerrarAutoModal);
+
+  autoModalPrev.addEventListener("click", () => {
+    if (!autoActual) return;
+    const total = autoActual.vistas.length;
+    vistaIndexActual = (vistaIndexActual - 1 + total) % total;
+    actualizarImagenModalAuto();
+  });
+
+  autoModalNext.addEventListener("click", () => {
+    if (!autoActual) return;
+    const total = autoActual.vistas.length;
+    vistaIndexActual = (vistaIndexActual + 1) % total;
+    actualizarImagenModalAuto();
+  });
+
+  // ===== MODAL DE MOTO (misma lógica y mismos IDs que en motos.html) =====
+  const motoModal = document.getElementById("moto-modal");
+  const motoModalOverlay = document.getElementById("moto-modal-overlay");
+  const motoModalClose = document.getElementById("moto-modal-close");
+  const motoModalPrev = document.getElementById("moto-modal-prev");
+  const motoModalNext = document.getElementById("moto-modal-next");
+  const motoModalImg = document.getElementById("moto-modal-img");
+  const motoModalBadge = document.getElementById("moto-modal-badge");
+  const motoModalTitle = document.getElementById("moto-modal-title");
+  const motoModalSubtitle = document.getElementById("moto-modal-subtitle");
+  const motoModalSpecs = document.getElementById("moto-modal-specs");
+
+  let motoActual = null;
+  let colorIndexActual = 0;
+
+  function renderSpecsMotoHTML(v) {
+    const specsList = [
+      { icon: "icono-motor.png", value: v.motor },
+      { icon: "icono-transmision.png", value: v.transmision },
+      { icon: "icono-combustible.png", value: v.combustible },
+      { icon: "icono-frenos.png", value: v.frenos },
+    ];
+
+    const filasSpecs = specsList
+      .map(
+        (s) => `
+        <li>
+          <img src="img/iconos/${s.icon}" alt="" class="moto-spec-icon" />
+          <span>${s.value}</span>
+        </li>`,
+      )
+      .join("");
+
+    const swatches = v.colores
+      .map(
+        (c, i) => `
+          <button
+            type="button"
+            class="moto-color-swatch${i === 0 ? " is-active" : ""}"
+            style="background-color: ${c.hex};"
+            data-index="${i}"
+            title="${c.nombre}"
+            aria-label="Ver en color ${c.nombre}"
+          ></button>`,
+      )
+      .join("");
+
+    const filaColores = `
+        <li>
+          <img src="img/iconos/icono-colores.png" alt="" class="moto-spec-icon" />
+          <span class="moto-modal-colores">${swatches}</span>
+        </li>`;
+
+    return filasSpecs + filaColores;
+  }
+
+  function actualizarImagenModalMoto() {
+    if (!motoActual) return;
+    const color = motoActual.colores[colorIndexActual];
+    motoModalImg.src = color.imagen;
+    motoModalImg.alt = `${motoActual.marca} ${motoActual.modelo} - ${color.nombre}`;
+
+    motoModalSpecs.querySelectorAll(".moto-color-swatch").forEach((btn, i) => {
+      btn.classList.toggle("is-active", i === colorIndexActual);
+    });
+  }
+
+  function abrirMotoModal(moto) {
+    motoActual = moto;
+    colorIndexActual = 0;
+
+    const badge = obtenerBadgeInfo(moto.disponibilidad);
+    motoModalBadge.textContent = badge.texto;
+    motoModalBadge.classList.remove(
+      "badge-stock",
+      "badge-pedido",
+      "badge-consignacion",
+    );
+    motoModalBadge.classList.add(badge.clase);
+
+    motoModalTitle.textContent = `${moto.marca} – ${moto.modelo}`;
+    motoModalSubtitle.textContent =
+      moto.condicion === "0KM" ? "0 Km" : moto.condicion;
+    motoModalSpecs.innerHTML = renderSpecsMotoHTML(moto);
+
+    actualizarImagenModalMoto();
+
+    motoModal.classList.add("is-open");
+    motoModal.setAttribute("aria-hidden", "false");
+    document.body.classList.add("no-scroll");
+  }
+
+  function cerrarMotoModal() {
+    motoModal.classList.remove("is-open");
+    motoModal.setAttribute("aria-hidden", "true");
+    document.body.classList.remove("no-scroll");
+    motoActual = null;
+  }
+
+  motoModalClose.addEventListener("click", cerrarMotoModal);
+  motoModalOverlay.addEventListener("click", cerrarMotoModal);
+
+  motoModalPrev.addEventListener("click", () => {
+    if (!motoActual) return;
+    const total = motoActual.colores.length;
+    colorIndexActual = (colorIndexActual - 1 + total) % total;
+    actualizarImagenModalMoto();
+  });
+
+  motoModalNext.addEventListener("click", () => {
+    if (!motoActual) return;
+    const total = motoActual.colores.length;
+    colorIndexActual = (colorIndexActual + 1) % total;
+    actualizarImagenModalMoto();
+  });
+
+  motoModalSpecs.addEventListener("click", (e) => {
+    const swatch = e.target.closest(".moto-color-swatch");
+    if (!swatch) return;
+    colorIndexActual = Number(swatch.dataset.index);
+    actualizarImagenModalMoto();
+  });
+
+  // ===== CLICK EN UNA CARD DESTACADA: abre el modal según su categoría =====
+  destacadosGrid.addEventListener("click", (e) => {
+    const card = e.target.closest(".vehiculo-card");
+    if (!card) return;
+
+    const id = Number(card.dataset.id);
+    const categoria = card.dataset.categoria;
+    const vehiculo = destacadosData.find(
+      (v) => v.id === id && v.categoria === categoria,
+    );
+    if (!vehiculo) return;
+
+    if (categoria === "auto") {
+      abrirAutoModal(vehiculo);
+    } else {
+      abrirMotoModal(vehiculo);
+    }
+  });
+
+  // ===== ESC cierra el modal que esté abierto =====
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape") return;
+    if (autoModal.classList.contains("is-open")) cerrarAutoModal();
+    if (motoModal.classList.contains("is-open")) cerrarMotoModal();
+  });
 }
 // ===== CATÁLOGO DE MOTOS (motos.html) =====
 const motosGrid = document.getElementById("motos-grid");

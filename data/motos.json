@@ -108,7 +108,7 @@
         "imagen": "img/motos/HONDA/honda-glh150-negro.png"
       }
     ],
-    "destacado": false
+    "destacado": true
   },
   {
     "id": 4,
@@ -300,7 +300,7 @@
         "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
       }
     ],
-    "destacado": true
+    "destacado": false
   },
   {
     "id": 10,

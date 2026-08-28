@@ -350,5 +350,125 @@
     "marca": "Ford",
     "modelo": "Ranger 4x2",
     "imagen": "img/entregas/entrega-2026-05-08.png"
+  },
+  {
+    "id": 43,
+    "fecha": "2026-04-24",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2 Full",
+    "imagen": "img/entregas/entrega-2026-04-24.png"
+  },
+  {
+    "id": 44,
+    "fecha": "2026-04-18",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2 Full",
+    "imagen": "img/entregas/entrega-2026-04-18.png"
+  },
+  {
+    "id": 45,
+    "fecha": "2026-04-17",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Amarok 4x2",
+    "imagen": "img/entregas/entrega-2026-04-17.png"
+  },
+  {
+    "id": 46,
+    "fecha": "2026-04-16",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz Plus",
+    "imagen": "img/entregas/entrega-2026-04-16.png"
+  },
+  {
+    "id": 47,
+    "fecha": "2026-04-14",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-04-14.png"
+  },
+  {
+    "id": 48,
+    "fecha": "2026-04-13",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2026-04-13.png"
+  },
+  {
+    "id": 49,
+    "fecha": "2026-04-07",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2026-04-07.png"
+  },
+  {
+    "id": 50,
+    "fecha": "2026-03-31",
+    "orden": 1,
+    "marca": "Bajaj",
+    "modelo": "Rouser LS",
+    "imagen": "img/entregas/entrega-2026-03-31.png"
+  },
+  {
+    "id": 51,
+    "fecha": "2026-03-30",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2026-03-31.png"
+  },
+  {
+    "id": 52,
+    "fecha": "2026-03-19",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB full",
+    "imagen": "img/entregas/entrega-2026-03-19.png"
+  },
+  {
+    "id": 53,
+    "fecha": "2026-03-09",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-03-09.png"
+  },
+  {
+    "id": 54,
+    "fecha": "2026-03-07",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB full",
+    "imagen": "img/entregas/entrega-2026-03-07.png"
+  },
+  {
+    "id": 55,
+    "fecha": "2026-03-06",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ranger 4x4",
+    "imagen": "img/entregas/entrega-2026-03-06.png"
+  },
+  {
+    "id": 56,
+    "fecha": "2026-02-07",
+    "orden": 1,
+    "marca": "Peugeot",
+    "modelo": "Partner",
+    "imagen": "img/entregas/entrega-2026-02-07.png"
+  },
+  {
+    "id": 57,
+    "fecha": "2026-02-06",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Logan",
+    "imagen": "img/entregas/entrega-2026-02-06.png"
   }
 ]

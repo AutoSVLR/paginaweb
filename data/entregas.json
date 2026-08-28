@@ -262,5 +262,13 @@
     "marca": "Honda",
     "modelo": "Wave",
     "imagen": "img/entregas/entrega-2026-08-27.png"
+  },
+  {
+    "id": 32,
+    "fecha": "2026-08-28",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-08-28.png"
   }
 ]

@@ -470,5 +470,365 @@
     "marca": "Renault",
     "modelo": "Logan",
     "imagen": "img/entregas/entrega-2026-02-06.png"
+  },
+  {
+    "id": 58,
+    "fecha": "2026-02-04",
+    "orden": 2,
+    "marca": "Renault",
+    "modelo": "Duster Oroch",
+    "imagen": "img/entregas/entrega-2026-02-04-2.png"
+  },
+  {
+    "id": 59,
+    "fecha": "2026-02-04",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Clio Mio",
+    "imagen": "img/entregas/entrega-2026-02-04-1.png"
+  },
+  {
+    "id": 60,
+    "fecha": "2026-02-02",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-02-02.png"
+  },
+  {
+    "id": 61,
+    "fecha": "2026-01-28",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Suran",
+    "imagen": "img/entregas/entrega-2026-01-28.png"
+  },
+  {
+    "id": 62,
+    "fecha": "2026-01-23",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Navi",
+    "imagen": "img/entregas/entrega-2026-01-23.png"
+  },
+  {
+    "id": 63,
+    "fecha": "2026-01-22",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Up!",
+    "imagen": "img/entregas/entrega-2026-01-22.png"
+  },
+  {
+    "id": 64,
+    "fecha": "2026-01-17",
+    "orden": 2,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2026-01-17-2.png"
+  },
+  {
+    "id": 65,
+    "fecha": "2026-01-17",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2026-01-17-1.png"
+  },
+  {
+    "id": 66,
+    "fecha": "2026-01-16",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2026-01-16.png"
+  },
+  {
+    "id": 67,
+    "fecha": "2026-01-02",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Amarok 4x4",
+    "imagen": "img/entregas/entrega-2026-01-02.png"
+  },
+  {
+    "id": 68,
+    "fecha": "2025-12-30",
+    "orden": 2,
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "imagen": "img/entregas/entrega-2025-12-30-2.png"
+  },
+  {
+    "id": 69,
+    "fecha": "2025-12-30",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2025-12-30-1.png"
+  },
+  {
+    "id": 70,
+    "fecha": "2025-12-19",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2025-12-19.png"
+  },
+  {
+    "id": 69,
+    "fecha": "2025-12-16",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Fluence",
+    "imagen": "img/entregas/entrega-2025-12-16.png"
+  },
+  {
+    "id": 70,
+    "fecha": "2025-12-13",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Smash Full",
+    "imagen": "img/entregas/entrega-2025-12-13.png"
+  },
+  {
+    "id": 71,
+    "fecha": "2025-12-12",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Focus SE",
+    "imagen": "img/entregas/entrega-2025-12-12.png"
+  },
+  {
+    "id": 72,
+    "fecha": "2025-12-05",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Palio Fire",
+    "imagen": "img/entregas/entrega-2025-12-05.png"
+  },
+  {
+    "id": 73,
+    "fecha": "2025-11-27",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Clio 2",
+    "imagen": "img/entregas/entrega-2025-11-27.png"
+  },
+  {
+    "id": 74,
+    "fecha": "2025-11-25",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZR",
+    "imagen": "img/entregas/entrega-2025-11-25.png"
+  },
+  {
+    "id": 75,
+    "fecha": "2025-11-14",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Fiesta Kinetick",
+    "imagen": "img/entregas/entrega-2025-11-14.png"
+  },
+  {
+    "id": 76,
+    "fecha": "2025-11-06",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Kwid",
+    "imagen": "img/entregas/entrega-2025-11-06.png"
+  },
+  {
+    "id": 77,
+    "fecha": "2025-10-10",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Sandero",
+    "imagen": "img/entregas/entrega-2025-10-10.png"
+  },
+  {
+    "id": 78,
+    "fecha": "2025-10-03",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2025-10-03.jpeg"
+  },
+  {
+    "id": 79,
+    "fecha": "2025-09-27",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2025-09-27.jpeg"
+  },
+  {
+    "id": 80,
+    "fecha": "2025-09-24",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-09-24.jpeg"
+  },
+  {
+    "id": 81,
+    "fecha": "2025-09-19",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2025-09-19.jpeg"
+  },
+  {
+    "id": 82,
+    "fecha": "2025-09-18",
+    "orden": 2,
+    "marca": "Ford",
+    "modelo": "Ranger 4x2",
+    "imagen": "img/entregas/entrega-2025-09-18-2.jpeg"
+  },
+  {
+    "id": 83,
+    "fecha": "2025-09-18",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-09-18-1.jpeg"
+  },
+  {
+    "id": 84,
+    "fecha": "2025-09-15",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-09-15-2.jpeg"
+  },
+  {
+    "id": 85,
+    "fecha": "2025-09-15",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ka Viral",
+    "imagen": "img/entregas/entrega-2025-09-15-1.jpeg"
+  },
+  {
+    "id": 86,
+    "fecha": "2025-09-11",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-09-11.jpeg"
+  },
+  {
+    "id": 87,
+    "fecha": "2025-09-09",
+    "orden": 1,
+    "marca": "Brava",
+    "modelo": "Nevada",
+    "imagen": "img/entregas/entrega-2025-09-09.jpeg"
+  },
+  {
+    "id": 88,
+    "fecha": "2025-09-03",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend",
+    "imagen": "img/entregas/entrega-2025-09-03.jpeg"
+  },
+  {
+    "id": 89,
+    "fecha": "2025-08-29",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Agile",
+    "imagen": "img/entregas/entrega-2025-08-29.jpeg"
+  },
+  {
+    "id": 90,
+    "fecha": "2025-08-28",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2 Full",
+    "imagen": "img/entregas/entrega-2025-08-28.jpeg"
+  },
+  {
+    "id": 91,
+    "fecha": "2025-08-23",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2025-08-23.jpeg"
+  },
+  {
+    "id": 92,
+    "fecha": "2025-08-22",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-08-22.jpeg"
+  },
+  {
+    "id": 93,
+    "fecha": "2025-08-21",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2025-08-21.jpeg"
+  },
+  {
+    "id": 94,
+    "fecha": "2025-08-20",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Palio Fire",
+    "imagen": "img/entregas/entrega-2025-08-20.jpeg"
+  },
+  {
+    "id": 95,
+    "fecha": "2025-08-14",
+    "orden": 2,
+    "marca": "Chevrolet",
+    "modelo": "Aveo",
+    "imagen": "img/entregas/entrega-2025-08-14-2.jpeg"
+  },
+  {
+    "id": 96,
+    "fecha": "2025-08-14",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2 Full",
+    "imagen": "img/entregas/entrega-2025-08-14-1.jpeg"
+  },
+  {
+    "id": 97,
+    "fecha": "2025-08-12",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Power",
+    "imagen": "img/entregas/entrega-2025-08-12.jpeg"
+  },
+  {
+    "id": 98,
+    "fecha": "2025-08-08",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Focus SE",
+    "imagen": "img/entregas/entrega-2025-08-08.jpeg"
+  },
+  {
+    "id": 99,
+    "fecha": "2025-08-07",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ka Viral",
+    "imagen": "img/entregas/entrega-2025-08-07.jpeg"
+  },
+  {
+    "id": 100,
+    "fecha": "2025-08-05",
+    "orden": 1,
+    "marca": "Bajaj",
+    "modelo": "Boxer",
+    "imagen": "img/entregas/entrega-2025-08-05.jpeg"
   }
 ]

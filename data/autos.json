@@ -736,7 +736,7 @@
       },
       {
         "nombre": "Lateral",
-        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-Lateral.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-lateral.png"
       },
       {
         "nombre": "Posterior 3/4",
@@ -761,11 +761,27 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-frente.png"
+      },
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-lateral.png"
+      },
+      {
+        "nombre": "Posterior 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2018-gris-post.png"
       }
     ]
   },

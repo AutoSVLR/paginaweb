@@ -830,5 +830,93 @@
     "marca": "Bajaj",
     "modelo": "Boxer",
     "imagen": "img/entregas/entrega-2025-08-05.jpeg"
+  },
+  {
+    "id": 101,
+    "fecha": "2025-07-31",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend",
+    "imagen": "img/entregas/entrega-2025-07-31.jpeg"
+  },
+  {
+    "id": 102,
+    "fecha": "2025-07-30",
+    "orden": 4,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2025-07-30-4.jpeg"
+  },
+  {
+    "id": 103,
+    "fecha": "2025-07-30",
+    "orden": 3,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2025-07-30-3.jpeg"
+  },
+  {
+    "id": 104,
+    "fecha": "2025-07-30",
+    "orden": 2,
+    "marca": "Peugeot",
+    "modelo": "208",
+    "imagen": "img/entregas/entrega-2025-07-30-2.jpeg"
+  },
+  {
+    "id": 105,
+    "fecha": "2025-07-30",
+    "orden": 1,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "imagen": "img/entregas/entrega-2025-07-30-1.jpeg"
+  },
+  {
+    "id": 106,
+    "fecha": "2025-07-26",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-07-26.jpeg"
+  },
+  {
+    "id": 107,
+    "fecha": "2025-07-25",
+    "orden": 2,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-07-25-2.jpeg"
+  },
+  {
+    "id": 108,
+    "fecha": "2025-07-25",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Wave",
+    "imagen": "img/entregas/entrega-2025-07-25-1.jpeg"
+  },
+  {
+    "id": 109,
+    "fecha": "2025-07-24",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "Skua 150",
+    "imagen": "img/entregas/entrega-2025-07-24-2.jpeg"
+  },
+  {
+    "id": 110,
+    "fecha": "2025-07-24",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2",
+    "imagen": "img/entregas/entrega-2025-07-24-1.jpeg"
+  },
+  {
+    "id": 111,
+    "fecha": "2025-07-23",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-07-23.jpeg"
   }
 ]

@@ -623,7 +623,7 @@
         "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-lateral.png"
       },
       {
-        "nombre": "Posterior3/4",
+        "nombre": "Posterior 3/4",
         "imagen": "img/autos/VOLKSWAGEN/vw-passat-cc-2013-blanco-post-3-4.png"
       },
       {
@@ -687,11 +687,27 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-frente.png"
+      },
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-lateral.png"
+      },
+      {
+        "nombre": "Posterior 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-post.png"
       }
     ]
   },

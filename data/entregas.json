@@ -918,5 +918,13 @@
     "marca": "Motomel",
     "modelo": "Blitz",
     "imagen": "img/entregas/entrega-2025-07-23.jpeg"
+  },
+  {
+    "id": 112,
+    "fecha": "2026-08-31",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Smash Full",
+    "imagen": "img/entregas/entrega-2026-08-31.png"
   }
 ]

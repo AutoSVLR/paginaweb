@@ -724,11 +724,27 @@
     "potencia": "75 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "50 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo.png"
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-frente.png"
+      },
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-frente-3-4.png"
+      },
+      {
+        "nombre": "Lateral",
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-Lateral.png"
+      },
+      {
+        "nombre": "Posterior 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-post-3-4.png"
+      },
+      {
+        "nombre": "Posterior",
+        "imagen": "img/autos/VOLKSWAGEN/vw-up!-2018-rojo-post.png"
       }
     ]
   },

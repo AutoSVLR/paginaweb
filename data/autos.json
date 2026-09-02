@@ -84,27 +84,6 @@
     ]
   },
   {
-    "id": 5,
-    "marca": "Chevrolet",
-    "modelo": "Prisma JOY",
-    "anio": 2018,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 4,
-    "motor": "1.4",
-    "potencia": "98 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2018-gris.png",
-    "vistas": [
-      {
-        "nombre": "Frente",
-        "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2018-gris.png"
-      }
-    ]
-  },
-  {
     "id": 6,
     "marca": "Dodge",
     "modelo": "RAM Laramie 4X4",
@@ -151,27 +130,6 @@
       {
         "nombre": "Trasera",
         "imagen": "img/autos/FIAT/palio-attractive-2015-rojo-trasera.png"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "marca": "Fiat",
-    "modelo": "Palio Fire",
-    "anio": 2015,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 5,
-    "motor": "1.4",
-    "potencia": "85 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-palio-fire-2015-verde.png",
-    "vistas": [
-      {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-palio-fire-2015-verde.png"
       }
     ]
   },
@@ -256,27 +214,6 @@
       {
         "nombre": "Frente",
         "imagen": "img/autos/FIAT/fiat-argo-2018-blanco.png"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "marca": "Fiat",
-    "modelo": "Argo",
-    "anio": 2018,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 5,
-    "motor": "1.3",
-    "potencia": "101 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-argo-2018-rojo.png",
-    "vistas": [
-      {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-argo-2018-rojo.png"
       }
     ]
   },

@@ -926,5 +926,13 @@
     "marca": "Gilera",
     "modelo": "Smash Full",
     "imagen": "img/entregas/entrega-2026-08-31.png"
+  },
+  {
+    "id": 113,
+    "fecha": "2026-09-03",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Palio Fire",
+    "imagen": "img/entregas/entrega-2026-09-03.png"
   }
 ]

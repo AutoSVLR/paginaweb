@@ -840,3 +840,51 @@ if (entregaDestacadaEl && entregasGridEl) {
     });
   }
 }
+// ===== FORMULARIO DE CONTACTO (contacto.html) =====
+const contactoForm = document.getElementById("contacto-form");
+
+if (contactoForm) {
+  const URL_SCRIPT =
+    "https://script.google.com/macros/s/AKfycbwOBFbFmxkNOKMVKUGkKLxRnt7wybbVBM9EkR_0uOT3X1LHjDa0TIB8lK0vTCfrJpt2zg/exec";
+
+  const btnEnviar = document.getElementById("contacto-form-submit");
+  const textoOriginalBtn = btnEnviar.textContent;
+
+  const mensajeEl = document.createElement("p");
+  mensajeEl.className = "contacto-form-mensaje";
+  contactoForm.appendChild(mensajeEl);
+
+  btnEnviar.addEventListener("click", () => {
+    if (!contactoForm.checkValidity()) {
+      contactoForm.reportValidity();
+      return;
+    }
+
+    const datos = new FormData(contactoForm);
+
+    btnEnviar.disabled = true;
+    btnEnviar.textContent = "Enviando...";
+    mensajeEl.textContent = "";
+    mensajeEl.className = "contacto-form-mensaje";
+
+    fetch(URL_SCRIPT, {
+      method: "POST",
+      body: datos,
+    })
+      .then(() => {
+        mensajeEl.textContent =
+          "¡Gracias! Tu consulta fue enviada, en breve te contactamos.";
+        mensajeEl.classList.add("is-ok");
+        contactoForm.reset();
+      })
+      .catch(() => {
+        mensajeEl.textContent =
+          "Hubo un problema al enviar la consulta. Probá de nuevo o escribinos por WhatsApp.";
+        mensajeEl.classList.add("is-error");
+      })
+      .finally(() => {
+        btnEnviar.disabled = false;
+        btnEnviar.textContent = textoOriginalBtn;
+      });
+  });
+}

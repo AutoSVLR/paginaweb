@@ -2006,3 +2006,18 @@ body.no-scroll {
     right: 0.4rem;
   }
 }
+/* ===== CONTACTO: MENSAJE DE ENVÍO DEL FORMULARIO ===== */
+.contacto-form-mensaje {
+  text-align: center;
+  font-size: 0.85rem;
+  min-height: 1.2em;
+  margin: 0;
+}
+
+.contacto-form-mensaje.is-ok {
+  color: #6fdc8c;
+}
+
+.contacto-form-mensaje.is-error {
+  color: #ff8a80;
+}

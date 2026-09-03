@@ -260,6 +260,31 @@
     ]
   },
   {
+    "id": 39,
+    "marca": "Ford",
+    "modelo": "Ranger 4X2",
+    "anio": 2013,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "2.2",
+    "potencia": "125 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "80 L",
+    "imagen": "img/autos/FORD/ford-ranger-4x2-2013-gris-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente",
+        "imagen": "img/autos/FORD/ford-ranger-4x2-2013-gris-frente.png"
+      },
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ranger-4x2-2013-gris-frente-3-4.png"
+      }
+    ]
+  },
+  {
     "id": 16,
     "marca": "Ford",
     "modelo": "Focus S",

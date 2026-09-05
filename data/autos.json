@@ -12,11 +12,11 @@
     "potencia": "211 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/AUDI/audi-tt-2013-blanco.png",
+    "imagen": "img/autos/AUDI/audi-tt-2013-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/AUDI/audi-tt-2013-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/AUDI/audi-tt-2013-blanco-frente-3-4.png"
       }
     ]
   },

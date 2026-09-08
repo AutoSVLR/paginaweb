@@ -478,11 +478,11 @@
     "potencia": "143 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "50 L",
-    "imagen": "img/autos/RENAULT/renault-duster-2018-rojo.png",
+    "imagen": "img/autos/RENAULT/renault-duster-2018-rojo-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/RENAULT/renault-duster-2018-rojo.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/RENAULT/renault-duster-2018-rojo-frente-3-4.png"
       }
     ]
   },
@@ -499,11 +499,11 @@
     "potencia": "177 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro.png",
+    "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro-frente-3-4.png"
       }
     ]
   },
@@ -631,11 +631,11 @@
     "potencia": "180 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata-frente-3-4.png"
       }
     ]
   },
@@ -652,11 +652,11 @@
     "potencia": "180 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado.png",
+    "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado-frente-3-4.png"
       }
     ]
   },

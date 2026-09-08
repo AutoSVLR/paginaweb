@@ -934,5 +934,13 @@
     "marca": "Fiat",
     "modelo": "Palio Fire",
     "imagen": "img/entregas/entrega-2026-09-03.png"
+  },
+  {
+    "id": 114,
+    "fecha": "2026-09-07",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2026-09-07.png"
   }
 ]

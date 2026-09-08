@@ -33,11 +33,11 @@
     "potencia": "98 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco.png",
+    "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco-frente-3-4.png"
       }
     ]
   },
@@ -54,11 +54,11 @@
     "potencia": "98 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco.png",
+    "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco-frente-3-4.png"
       }
     ]
   },

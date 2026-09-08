@@ -415,11 +415,11 @@
     "potencia": "165 HP",
     "transmision": "Automático 6 velocidades",
     "combustible": "60 L",
-    "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco.png",
+    "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco-frente-3-4.png"
       }
     ]
   },
@@ -436,11 +436,11 @@
     "potencia": "115 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "50 L",
-    "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris.png",
+    "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris-frente-3-4.png"
       }
     ]
   },
@@ -457,11 +457,11 @@
     "potencia": "115 HP",
     "transmision": "Automático 5 velocidades",
     "combustible": "50 L",
-    "imagen": "img/autos/PEUGEOT/peugeot-208-2021-negro.png",
+    "imagen": "img/autos/PEUGEOT/peugeot-208-2021-negro-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/PEUGEOT/peugeot-208-2021-negro.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/PEUGEOT/peugeot-208-2021-negro-frente-3-4.png"
       }
     ]
   },

@@ -75,11 +75,11 @@
     "potencia": "98 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco.png",
+    "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco-frente-3-4.png"
       }
     ]
   },
@@ -96,11 +96,11 @@
     "potencia": "395 HP",
     "transmision": "Automático 8 velocidades",
     "combustible": "98 L",
-    "imagen": "img/autos/DODGE/dodge-ram-laramie-4x4-2016-rojo.png",
+    "imagen": "img/autos/DODGE/dodge-ram-laramie-4x4-2016-rojo-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/DODGE/dodge-ram-laramie-4x4-2016-rojo.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/DODGE/dodge-ram-laramie-4x4-2016-rojo-frente-3-4.png"
       }
     ]
   },
@@ -117,19 +117,11 @@
     "potencia": "85 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-palio-attractive-2015-rojo.png",
+    "imagen": "img/autos/FIAT/fiat-palio-attractive-2015-rojo-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/palio-attractive-2015-rojo-frente.png"
-      },
-      {
-        "nombre": "Lateral",
-        "imagen": "img/autos/FIAT/palio-attractive-2015-rojo-lateral.png"
-      },
-      {
-        "nombre": "Trasera",
-        "imagen": "img/autos/FIAT/palio-attractive-2015-rojo-trasera.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-palio-attractive-2015-rojo-frente-3-4.png"
       }
     ]
   },
@@ -146,11 +138,11 @@
     "potencia": "85 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-punto-attractive-2017-blanco.png",
+    "imagen": "img/autos/FIAT/fiat-punto-attractive-2017-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-punto-attractive-2017-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-punto-attractive-2017-blanco-frente-3-4.png"
       }
     ]
   },
@@ -167,11 +159,11 @@
     "potencia": "85 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-palio-attractive-2017-blanco.png",
+    "imagen": "img/autos/FIAT/fiat-palio-attractive-2017-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-palio-attractive-2017-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-palio-attractive-2017-blanco-frente-3-4.png"
       }
     ]
   },
@@ -188,11 +180,11 @@
     "potencia": "170 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "60 L",
-    "imagen": "img/autos/FIAT/fiat-toro-4x4-2017-blanco.png",
+    "imagen": "img/autos/FIAT/fiat-toro-4x4-2017-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-toro-4x4-2017-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-toro-4x4-2017-blanco-frente-3-4.png"
       }
     ]
   },
@@ -209,11 +201,11 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "48 L",
-    "imagen": "img/autos/FIAT/fiat-argo-2018-blanco.png",
+    "imagen": "img/autos/FIAT/fiat-argo-2018-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-argo-2018-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-argo-2018-blanco-frente-3-4.png"
       }
     ]
   },
@@ -230,11 +222,11 @@
     "potencia": "139 HP",
     "transmision": "Automático 6 velocidades",
     "combustible": "60 L",
-    "imagen": "img/autos/FIAT/fiat-toro-4x2-2020-azul.png",
+    "imagen": "img/autos/FIAT/fiat-toro-4x2-2020-azul-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FIAT/fiat-toro-4x2-2020-azul.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FIAT/fiat-toro-4x2-2020-azul-frente-3-4.png"
       }
     ]
   },

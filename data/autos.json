@@ -243,11 +243,11 @@
     "potencia": "125 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/FORD/ford-ranger-4x2-2012-rojo.png",
+    "imagen": "img/autos/FORD/ford-ranger-4x2-2012-rojo-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-ranger-4x2-2012-rojo.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ranger-4x2-2012-rojo-frente-3-4.png"
       }
     ]
   },
@@ -289,11 +289,11 @@
     "potencia": "165 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "55 L",
-    "imagen": "img/autos/FORD/ford-focus-s-2017-azul.png",
+    "imagen": "img/autos/FORD/ford-focus-s-2017-azul-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-focus-s-2017-azul.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-focus-s-2017-azul-frente-3-4.png"
       }
     ]
   },
@@ -310,11 +310,11 @@
     "potencia": "101 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "43 L",
-    "imagen": "img/autos/FORD/ford-ka-se-plus-2018-blanco.png",
+    "imagen": "img/autos/FORD/ford-ka-se-plus-2018-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-ka-se-plus-2018-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ka-se-plus-2018-blanco-frente-3-4.png"
       }
     ]
   },
@@ -331,11 +331,11 @@
     "potencia": "123 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "52 L",
-    "imagen": "img/autos/FORD/ford-ecosport-2019-blanco.png",
+    "imagen": "img/autos/FORD/ford-ecosport-2019-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-ecosport-2019-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ecosport-2019-blanco-frente-3-4.png"
       }
     ]
   },
@@ -352,11 +352,11 @@
     "potencia": "85 HP",
     "transmision": "Manual 5 velocidades",
     "combustible": "43 L",
-    "imagen": "img/autos/FORD/ford-ka-s-2019-negro.png",
+    "imagen": "img/autos/FORD/ford-ka-s-2019-negro-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-ka-s-2019-negro.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ka-s-2019-negro-frente-3-4.png"
       }
     ]
   },
@@ -373,11 +373,11 @@
     "potencia": "210 HP",
     "transmision": "Automático 10 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/FORD/ford-ranger-4x4-2023-blanco.png",
+    "imagen": "img/autos/FORD/ford-ranger-4x4-2023-blanco-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-ranger-4x4-2023-blanco.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ranger-4x4-2023-blanco-frente-3-4.png"
       }
     ]
   },
@@ -394,11 +394,11 @@
     "potencia": "185 HP",
     "transmision": "Automático 7 velocidades",
     "combustible": "60 L",
-    "imagen": "img/autos/FORD/ford-territory-2026-gris.png",
+    "imagen": "img/autos/FORD/ford-territory-2026-gris-frente-3-4.png",
     "vistas": [
       {
-        "nombre": "Frente",
-        "imagen": "img/autos/FORD/ford-territory-2026-gris.png"
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-territory-2026-gris-frente-3-4.png"
       }
     ]
   },

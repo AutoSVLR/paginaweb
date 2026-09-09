@@ -277,6 +277,27 @@
     ]
   },
   {
+    "id": 40,
+    "marca": "Ford",
+    "modelo": "Eco Sport",
+    "anio": 2015,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 5,
+    "motor": "2.0",
+    "potencia": "143 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "53 L",
+    "imagen": "img/autos/FORD/ford-ecosport-2015-rojo-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/FORD/ford-ecosport-2015-rojo-frente-3-4.png"
+      }
+    ]
+  },
+  {
     "id": 16,
     "marca": "Ford",
     "modelo": "Focus S",
@@ -466,6 +487,48 @@
     ]
   },
   {
+    "id": 41,
+    "marca": "Renault",
+    "modelo": "Duster Privilege",
+    "anio": 2016,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 5,
+    "motor": "1.6",
+    "potencia": "143 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "50 L",
+    "imagen": "img/autos/RENAULT/renault-duster-2016-gris-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/RENAULT/renault-duster-2016-gris-frente-3-4.png"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "marca": "Renault",
+    "modelo": "Logan Expresion",
+    "anio": 2016,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "1.6",
+    "potencia": "105 HP",
+    "transmision": "Manual 5 velocidades",
+    "combustible": "50 L",
+    "imagen": "img/autos/RENAULT/renault-logan-2016-negro-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/RENAULT/renault-logan-2016-negro-frente-3-4.png"
+      }
+    ]
+  },
+  {
     "id": 25,
     "marca": "Renault",
     "modelo": "Duster",
@@ -473,7 +536,7 @@
     "condicion": "Usado",
     "disponibilidad": "stock",
     "destacado": false,
-    "puertas": 5,
+    "puertas": 4,
     "motor": "2.0",
     "potencia": "143 HP",
     "transmision": "Manual 6 velocidades",
@@ -483,6 +546,27 @@
       {
         "nombre": "Frente 3/4",
         "imagen": "img/autos/RENAULT/renault-duster-2018-rojo-frente-3-4.png"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "marca": "Toyota",
+    "modelo": "Hilux SRV 4X2",
+    "anio": 2017,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "2.8",
+    "potencia": "177 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "80 L",
+    "imagen": "img/autos/TOYOTA/toyota-hilux-srv-4x2-2017-rojo-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/TOYOTA/toyota-hilux-srv-4x2-2017-rojo-frente-3-4.png"
       }
     ]
   },
@@ -499,11 +583,32 @@
     "potencia": "177 HP",
     "transmision": "Manual 6 velocidades",
     "combustible": "80 L",
-    "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro-frente-3-4.png",
+    "imagen": "img/autos/TOYOTA/toyota-hilux-sr-4x4-2019-gris-oscuro-frente-3-4.png",
     "vistas": [
       {
         "nombre": "Frente 3/4",
-        "imagen": "img/autos/TOYOTA/toyota-hilux-4x4-2019-gris-oscuro-frente-3-4.png"
+        "imagen": "img/autos/TOYOTA/toyota-hilux-sr-4x4-2019-gris-oscuro-frente-3-4.png"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "marca": "Toyota",
+    "modelo": "Hilux SR 4X4",
+    "anio": 2021,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "2.8",
+    "potencia": "204 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "80 L",
+    "imagen": "img/autos/TOYOTA/toyota-hilux-sr-4x4-2021-blanco-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/TOYOTA/toyota-hilux-sr-4x4-2021-blanco-frente-3-4.png"
       }
     ]
   },

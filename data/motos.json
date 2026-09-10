@@ -511,22 +511,27 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "4.1 L",
     "frenos": "Disco",
-    "imagen": "img/motos/GILERA/gilera-smash110full.png",
+    "imagen": "img/motos/GILERA/gilera-smash110full-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/GILERA/gilera-smash110full.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/GILERA/gilera-smash110full-azul.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/GILERA/gilera-smash110full-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/GILERA/gilera-smash110full-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/GILERA/gilera-smash110full.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/GILERA/gilera-smash110full.png"
+        "imagen": "img/motos/GILERA/gilera-smash110full-rojo.png"
       }
     ],
     "destacado": false
@@ -543,22 +548,22 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "4.5 L",
     "frenos": "Disco",
-    "imagen": "img/motos/GILERA/gilera-smash125.png",
+    "imagen": "img/motos/GILERA/gilera-smash125-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/GILERA/gilera-smash125.png"
+        "imagen": "img/motos/GILERA/gilera-smash125-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/GILERA/gilera-smash125-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/GILERA/gilera-smash125.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/GILERA/gilera-smash125.png"
+        "imagen": "img/motos/GILERA/gilera-smash125-rojo.png"
       }
     ],
     "destacado": false
@@ -575,22 +580,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "8.6 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/GILERA/gilera-sahel150.png",
+    "imagen": "img/motos/GILERA/gilera-sahel150-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/GILERA/gilera-sahel150.png"
+        "imagen": "img/motos/GILERA/gilera-sahel150-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/GILERA/gilera-sahel150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/GILERA/gilera-sahel150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/GILERA/gilera-sahel150.png"
+        "imagen": "img/motos/GILERA/gilera-sahel150-rojo.png"
       }
     ],
     "destacado": false

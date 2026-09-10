@@ -612,22 +612,22 @@
     "transmision": "Automático, 4 velocidades",
     "combustible": "2.5 L",
     "frenos": "Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-hot90.png",
+    "imagen": "img/motos/ZANELLA/zanella-hot90-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
-      },
-      {
-        "nombre": "Rojo",
-        "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
-      },
-      {
         "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-hot90.png"
+        "hex": "#383D65",
+        "imagen": "img/motos/ZANELLA/zanella-hot90-azul.png"
+      },
+      {
+        "nombre": "Bordo",
+        "hex": "#841f1f",
+        "imagen": "img/motos/ZANELLA/zanella-hot90-bordo.png"
+      },
+      {
+        "nombre": "Oliva",
+        "hex": "#184c2a",
+        "imagen": "img/motos/ZANELLA/zanella-hot90-oliva.png"
       }
     ],
     "destacado": false
@@ -644,22 +644,27 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "3.2 L",
     "frenos": "Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-zb110.png",
+    "imagen": "img/motos/ZANELLA/zanella-zb110-azul.png",
     "colores": [
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zb110-azul.png"
+      },
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
+        "imagen": "img/motos/ZANELLA/zanella-zb110-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/ZANELLA/zanella-zb110-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-zb110.png"
+        "imagen": "img/motos/ZANELLA/zanella-zb110-rojo.png"
       }
     ],
     "destacado": false
@@ -676,22 +681,27 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "3.2 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-zb110full.png",
+    "imagen": "img/motos/ZANELLA/zanella-zb110full-azul.png",
     "colores": [
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zb110full-azul.png"
+      },
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
+        "imagen": "img/motos/ZANELLA/zanella-zb110full-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/ZANELLA/zanella-zb110full-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-zb110full.png"
+        "imagen": "img/motos/ZANELLA/zanella-zb110full-rojo.png"
       }
     ],
     "destacado": false
@@ -708,22 +718,22 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "3.5 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-zb125.png",
+    "imagen": "img/motos/ZANELLA/zanella-zb125-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+        "imagen": "img/motos/ZANELLA/zanella-zb125-blanco.png"
       },
       {
-        "nombre": "Rojo",
-        "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/ZANELLA/zanella-zb125-negro.png"
       },
       {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-zb125.png"
+        "nombre": "Verde",
+        "hex": "#1C5766",
+        "imagen": "img/motos/ZANELLA/zanella-zb125-verde.png"
       }
     ],
     "destacado": false
@@ -740,22 +750,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-rx150.png",
+    "imagen": "img/motos/ZANELLA/zanella-rx150-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
+        "imagen": "img/motos/ZANELLA/zanella-rx150-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/ZANELLA/zanella-rx150-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/ZANELLA/zanella-rx150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-rx150.png"
+        "imagen": "img/motos/ZANELLA/zanella-rx150-rojo.png"
       }
     ],
     "destacado": false
@@ -772,22 +787,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-zt150.png",
+    "imagen": "img/motos/ZANELLA/zanella-zt150-azul.png",
     "colores": [
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zt150-azul.png"
+      },
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
+        "imagen": "img/motos/ZANELLA/zanella-zt150-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/ZANELLA/zanella-zt150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-zt150.png"
+        "imagen": "img/motos/ZANELLA/zanella-zt150-rojo.png"
       }
     ],
     "destacado": false
@@ -804,22 +824,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/ZANELLA/zanella-zr150.png",
+    "imagen": "img/motos/ZANELLA/zanella-zr150-azul.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/ZANELLA/zanella-zr150-azul.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/ZANELLA/zanella-zr150-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/ZANELLA/zanella-zr150-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/ZANELLA/zanella-zr150.png"
+        "imagen": "img/motos/ZANELLA/zanella-zr150-rojo.png"
       }
     ],
     "destacado": false
@@ -836,22 +861,22 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "3.5 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/MOTOMEL/motomel-blitz110.png",
+    "imagen": "img/motos/MOTOMEL/motomel-blitz110-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110-azul.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110.png"
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110-rojo.png"
       }
     ],
     "destacado": false
@@ -868,22 +893,27 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "3.5 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png",
+    "imagen": "img/motos/MOTOMEL/motomel-blitz110plus-azul.png",
     "colores": [
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus-azul.png"
+      },
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus.png"
+        "imagen": "img/motos/MOTOMEL/motomel-blitz110plus-rojo.png"
       }
     ],
     "destacado": false
@@ -900,22 +930,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "11 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/MOTOMEL/motomel-s2150.png",
+    "imagen": "img/motos/MOTOMEL/motomel-s2150-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150-azul.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150.png"
+        "imagen": "img/motos/MOTOMEL/motomel-s2150-rojo.png"
       }
     ],
     "destacado": false
@@ -932,22 +967,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "11 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/MOTOMEL/motomel-s2150full.png",
+    "imagen": "img/motos/MOTOMEL/motomel-s2150full-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full-azul.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-s2150full.png"
+        "imagen": "img/motos/MOTOMEL/motomel-s2150full-rojo.png"
       }
     ],
     "destacado": false
@@ -964,22 +1004,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "7.5 L",
     "frenos": "Disco",
-    "imagen": "img/motos/MOTOMEL/motomel-skua125.png",
+    "imagen": "img/motos/MOTOMEL/motomel-skua125-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-skua125-azul.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-skua125-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-skua125.png"
+        "imagen": "img/motos/MOTOMEL/motomel-skua125-rojo.png"
       }
     ],
     "destacado": false
@@ -996,22 +1036,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "11.5 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/MOTOMEL/motomel-skua150.png",
+    "imagen": "img/motos/MOTOMEL/motomel-skua150-beige.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+        "nombre": "Beige",
+        "hex": "#ddc5b8",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150-beige.png"
       },
       {
-        "nombre": "Rojo",
-        "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150-gris.png"
       },
       {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-skua150.png"
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-skua150-negro.png"
       }
     ],
     "destacado": false
@@ -1028,22 +1068,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12.3 L",
     "frenos": "Disco",
-    "imagen": "img/motos/MOTOMEL/motomel-skua250.png",
+    "imagen": "img/motos/MOTOMEL/motomel-skua250-azul.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/MOTOMEL/motomel-skua250-azul.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/MOTOMEL/motomel-skua250-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/MOTOMEL/motomel-skua250.png"
+        "imagen": "img/motos/MOTOMEL/motomel-skua250-rojo.png"
       }
     ],
     "destacado": false

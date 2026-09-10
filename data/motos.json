@@ -1100,22 +1100,27 @@
     "transmision": "Semiautomático, 4 velocidades",
     "combustible": "4 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/CORVEN/corven-energy110full.png",
+    "imagen": "img/motos/CORVEN/corven-energy110-azul.png",
     "colores": [
+      {
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/CORVEN/corven-energy110-azul.png"
+      },
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/CORVEN/corven-energy110full.png"
+        "imagen": "img/motos/CORVEN/corven-energy110-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/CORVEN/corven-energy110-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/CORVEN/corven-energy110full.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/CORVEN/corven-energy110full.png"
+        "imagen": "img/motos/CORVEN/corven-energy110-rojo.png"
       }
     ],
     "destacado": false
@@ -1132,22 +1137,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/CORVEN/corven-triax150.png",
+    "imagen": "img/motos/CORVEN/corven-triax150-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/CORVEN/corven-triax150.png"
+        "imagen": "img/motos/CORVEN/corven-triax150-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/CORVEN/corven-triax150-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/CORVEN/corven-triax150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/CORVEN/corven-triax150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/CORVEN/corven-triax150.png"
+        "imagen": "img/motos/CORVEN/corven-triax150-rojo.png"
       }
     ],
     "destacado": false
@@ -1164,22 +1174,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco",
-    "imagen": "img/motos/CORVEN/corven-triax250.png",
+    "imagen": "img/motos/CORVEN/corven-triax250-blanco.png",
     "colores": [
       {
         "nombre": "Blanco",
         "hex": "#ffffff",
-        "imagen": "img/motos/CORVEN/corven-triax250.png"
+        "imagen": "img/motos/CORVEN/corven-triax250-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/CORVEN/corven-triax250-gris.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/CORVEN/corven-triax250-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/CORVEN/corven-triax250.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/CORVEN/corven-triax250.png"
+        "imagen": "img/motos/CORVEN/corven-triax250-rojo.png"
       }
     ],
     "destacado": false

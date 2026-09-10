@@ -122,22 +122,22 @@
     "transmision": "Manual, 4 velocidades",
     "combustible": "10.1 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/HONDA/honda-twister125.png",
+    "imagen": "img/motos/HONDA/honda-twister125-gris.png",
     "colores": [
       {
-        "nombre": "Blanco",
-        "hex": "#ffffff",
-        "imagen": "img/motos/HONDA/honda-twister125.png"
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/HONDA/honda-twister125-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-twister125.png"
+        "imagen": "img/motos/HONDA/honda-twister125-rojo.png"
       },
       {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-twister125.png"
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/HONDA/honda-twister125-negro.png"
       }
     ],
     "destacado": false
@@ -154,22 +154,22 @@
     "transmision": "Manual, 6 velocidades",
     "combustible": "14.1 L",
     "frenos": "Disco",
-    "imagen": "img/motos/HONDA/honda-twister300.png",
+    "imagen": "img/motos/HONDA/honda-twister300-negro.png",
     "colores": [
       {
         "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/HONDA/honda-twister300.png"
+        "hex": "#000000",
+        "imagen": "img/motos/HONDA/honda-twister300-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-twister300.png"
+        "imagen": "img/motos/HONDA/honda-twister300-rojo.png"
       },
       {
         "nombre": "Azul",
         "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-twister300.png"
+        "imagen": "img/motos/HONDA/honda-twister300-azul.png"
       }
     ],
     "destacado": false
@@ -186,22 +186,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/HONDA/honda-xr150.png",
+    "imagen": "img/motos/HONDA/honda-xr150-blanco.png",
     "colores": [
       {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-xr150-blanco.png"
+      },
+      {
         "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/HONDA/honda-xr150.png"
+        "hex": "#000000",
+        "imagen": "img/motos/HONDA/honda-xr150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-xr150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-xr150.png"
+        "imagen": "img/motos/HONDA/honda-xr150-rojo.png"
       }
     ],
     "destacado": false
@@ -218,22 +218,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco",
-    "imagen": "img/motos/HONDA/honda-xr190.png",
+    "imagen": "img/motos/HONDA/honda-xr190-beige.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/HONDA/honda-xr190.png"
+        "nombre": "Beige",
+        "hex": "##DDC5B8",
+        "imagen": "img/motos/HONDA/honda-xr190-beige.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-xr190-blanco.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-xr190.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-xr190.png"
+        "imagen": "img/motos/HONDA/honda-xr190-rojo.png"
       }
     ],
     "destacado": false
@@ -250,22 +250,22 @@
     "transmision": "Manual, 6 velocidades",
     "combustible": "13.8 L",
     "frenos": "Disco",
-    "imagen": "img/motos/HONDA/honda-xr300.png",
+    "imagen": "img/motos/HONDA/honda-xr300-blanco.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/HONDA/honda-xr300.png"
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/HONDA/honda-xr300-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/HONDA/honda-xr300-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/HONDA/honda-xr300.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/HONDA/honda-xr300.png"
+        "imagen": "img/motos/HONDA/honda-xr300-rojo.png"
       }
     ],
     "destacado": false

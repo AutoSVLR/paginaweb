@@ -222,7 +222,7 @@
     "colores": [
       {
         "nombre": "Beige",
-        "hex": "##DDC5B8",
+        "hex": "#ddc5b8",
         "imagen": "img/motos/HONDA/honda-xr190-beige.png"
       },
       {
@@ -282,22 +282,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "11 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/YAMAHA/yamaha-xtz125.png",
+    "imagen": "img/motos/YAMAHA/yamaha-xtz125-azul.png",
     "colores": [
-      {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
-      },
-      {
-        "nombre": "Rojo",
-        "hex": "#D90E06",
-        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
-      },
       {
         "nombre": "Azul",
         "hex": "#2244AA",
-        "imagen": "img/motos/YAMAHA/yamaha-xtz125.png"
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125-azul.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125-blanco.png"
+      },
+      {
+        "nombre": "Negro",
+        "hex": "#000000",
+        "imagen": "img/motos/YAMAHA/yamaha-xtz125-negro.png"
       }
     ],
     "destacado": false
@@ -314,22 +314,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "13 L",
     "frenos": "Disco",
-    "imagen": "img/motos/YAMAHA/yamaha-fz150.png",
+    "imagen": "img/motos/YAMAHA/yamaha-fz150-azul.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
-      },
-      {
-        "nombre": "Rojo",
-        "hex": "#D90E06",
-        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
-      },
-      {
         "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/YAMAHA/yamaha-fz150.png"
+        "hex": "#0479d8",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150-azul.png"
+      },
+      {
+        "nombre": "Negro / Dorado",
+        "hex": "#D5C39C",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150-dorado.png"
+      },
+      {
+        "nombre": "Negro / Rojo",
+        "hex": "#D90E06",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150-rojo.png"
+      },
+      {
+        "nombre": "Violeta",
+        "hex": "#5c62a8",
+        "imagen": "img/motos/YAMAHA/yamaha-fz150-violeta.png"
       }
     ],
     "destacado": false
@@ -346,22 +351,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "14 L",
     "frenos": "Disco",
-    "imagen": "img/motos/YAMAHA/yamaha-fz250.png",
+    "imagen": "img/motos/YAMAHA/yamaha-fz250-azul.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/YAMAHA/yamaha-fz250-azul.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/YAMAHA/yamaha-fz250-blanco.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/YAMAHA/yamaha-fz250.png"
+        "imagen": "img/motos/YAMAHA/yamaha-fz250-rojo.png"
       }
     ],
     "destacado": false

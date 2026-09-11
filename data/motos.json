@@ -383,22 +383,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "11 L",
     "frenos": "Tambor",
-    "imagen": "img/motos/BAJAJ/bajaj-boxer150.png",
+    "imagen": "img/motos/BAJAJ/bajaj-boxer150-blanco.png",
     "colores": [
       {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150-gris.png"
+      },
+      {
         "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
+        "hex": "#000000",
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150-negro.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/BAJAJ/bajaj-boxer150.png"
+        "imagen": "img/motos/BAJAJ/bajaj-boxer150-rojo.png"
       }
     ],
     "destacado": false
@@ -415,22 +420,27 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "10.5 L",
     "frenos": "Disco / Tambor",
-    "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserls125-amarillo.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+        "nombre": "Amarillo",
+        "hex": "#f2ff49",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserls125-amarillo.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserls125-blanco.png"
+      },
+      {
+        "nombre": "Gris",
+        "hex": "#C8C8C8",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserls125-gris.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+        "imagen": "img/motos/BAJAJ/bajaj-rouserls125-rojo.png"
       }
     ],
     "destacado": false
@@ -447,22 +457,22 @@
     "transmision": "Manual, 5 velocidades",
     "combustible": "12 L",
     "frenos": "Disco",
-    "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserns160-azul.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160-azul.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#D90E06",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160-blanco.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns160.png"
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns160-rojo.png"
       }
     ],
     "destacado": false
@@ -479,22 +489,22 @@
     "transmision": "Manual, 6 velocidades",
     "combustible": "12 L",
     "frenos": "Disco",
-    "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png",
+    "imagen": "img/motos/BAJAJ/bajaj-rouserns200-azul.png",
     "colores": [
       {
-        "nombre": "Negro",
-        "hex": "#1A1A1A",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png"
+        "nombre": "Azul",
+        "hex": "#2244AA",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns200-azul.png"
+      },
+      {
+        "nombre": "Blanco",
+        "hex": "#ffffff",
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns200-blanco.png"
       },
       {
         "nombre": "Rojo",
         "hex": "#D90E06",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns200.png"
-      },
-      {
-        "nombre": "Azul",
-        "hex": "#2244AA",
-        "imagen": "img/motos/BAJAJ/bajaj-rouserns125.png"
+        "imagen": "img/motos/BAJAJ/bajaj-rouserns200-rojo.png"
       }
     ],
     "destacado": false

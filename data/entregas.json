@@ -942,5 +942,485 @@
     "marca": "Chevrolet",
     "modelo": "Prisma",
     "imagen": "img/entregas/entrega-2026-09-07.png"
+  },
+  {
+    "id": 115,
+    "fecha": "2025-07-22",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "imagen": "img/entregas/entrega-2025-07-22.jpeg"
+  },
+  {
+    "id": 116,
+    "fecha": "2025-07-21",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ecosport",
+    "imagen": "img/entregas/entrega-2025-07-21.jpeg"
+  },
+  {
+    "id": 117,
+    "fecha": "2025-07-19",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Celta",
+    "imagen": "img/entregas/entrega-2025-07-19.jpeg"
+  },
+  {
+    "id": 118,
+    "fecha": "2025-07-18",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Classic",
+    "imagen": "img/entregas/entrega-2025-07-18.jpeg"
+  },
+  {
+    "id": 119,
+    "fecha": "2025-07-17",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Ecosport",
+    "imagen": "img/entregas/entrega-2025-07-17.jpeg"
+  },
+  {
+    "id": 120,
+    "fecha": "2025-07-16",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Power",
+    "imagen": "img/entregas/entrega-2025-07-16.jpeg"
+  },
+  {
+    "id": 121,
+    "fecha": "2025-07-15",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Clio Mio",
+    "imagen": "img/entregas/entrega-2025-07-15.jpeg"
+  },
+  {
+    "id": 122,
+    "fecha": "2025-07-11",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2025-07-11.jpeg"
+  },
+  {
+    "id": 123,
+    "fecha": "2025-07-07",
+    "orden": 1,
+    "marca": "Renault",
+    "modelo": "Logan",
+    "imagen": "img/entregas/entrega-2025-07-07.jpeg"
+  },
+  {
+    "id": 124,
+    "fecha": "2025-07-03",
+    "orden": 1,
+    "marca": "Fiat",
+    "modelo": "Palio Attractive",
+    "imagen": "img/entregas/entrega-2025-07-03.jpeg"
+  },
+  {
+    "id": 125,
+    "fecha": "2025-07-01",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-07-01.jpeg"
+  },
+  {
+    "id": 126,
+    "fecha": "2025-06-26",
+    "orden": 2,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "imagen": "img/entregas/entrega-2025-06-26-2.jpeg"
+  },
+  {
+    "id": 127,
+    "fecha": "2025-06-26",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZT",
+    "imagen": "img/entregas/entrega-2025-06-26-1.jpeg"
+  },
+  {
+    "id": 128,
+    "fecha": "2025-06-24",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Amarok 4x2",
+    "imagen": "img/entregas/entrega-2025-06-24.jpeg"
+  },
+  {
+    "id": 129,
+    "fecha": "2025-06-23",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-06-23.jpeg"
+  },
+  {
+    "id": 130,
+    "fecha": "2025-06-20",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB Tunning",
+    "imagen": "img/entregas/entrega-2025-06-20.jpeg"
+  },
+  {
+    "id": 131,
+    "fecha": "2025-06-19",
+    "orden": 3,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-06-19-3.jpeg"
+  },
+  {
+    "id": 132,
+    "fecha": "2025-06-19",
+    "orden": 2,
+    "marca": "Renault",
+    "modelo": "Kangoo",
+    "imagen": "img/entregas/entrega-2025-06-19-2.jpeg"
+  },
+  {
+    "id": 133,
+    "fecha": "2025-06-19",
+    "orden": 1,
+    "marca": "Toyota",
+    "modelo": "Hilux 4X4",
+    "imagen": "img/entregas/entrega-2025-06-19-1.jpeg"
+  },
+  {
+    "id": 134,
+    "fecha": "2025-06-05",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Navi",
+    "imagen": "img/entregas/entrega-2025-06-05.jpeg"
+  },
+  {
+    "id": 135,
+    "fecha": "2025-06-04",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-06-04.jpeg"
+  },
+  {
+    "id": 136,
+    "fecha": "2025-05-28",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB full",
+    "imagen": "img/entregas/entrega-2025-05-28.jpeg"
+  },
+  {
+    "id": 137,
+    "fecha": "2025-05-27",
+    "orden": 1,
+    "marca": "Citroen",
+    "modelo": "C4",
+    "imagen": "img/entregas/entrega-2025-05-27.jpeg"
+  },
+  {
+    "id": 138,
+    "fecha": "2025-05-21",
+    "orden": 1,
+    "marca": "Peugeot",
+    "modelo": "207",
+    "imagen": "img/entregas/entrega-2025-05-21.jpeg"
+  },
+  {
+    "id": 139,
+    "fecha": "2025-05-20",
+    "orden": 2,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-05-20-2.jpeg"
+  },
+  {
+    "id": 140,
+    "fecha": "2025-05-20",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-05-20-1.jpeg"
+  },
+  {
+    "id": 141,
+    "fecha": "2025-05-15",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Amarok 4x4",
+    "imagen": "img/entregas/entrega-2025-05-15.jpeg"
+  },
+  {
+    "id": 142,
+    "fecha": "2025-05-13",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "S2",
+    "imagen": "img/entregas/entrega-2025-05-13-2.jpeg"
+  },
+  {
+    "id": 143,
+    "fecha": "2025-05-13",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2025-05-13-1.jpeg"
+  },
+  {
+    "id": 144,
+    "fecha": "2025-05-10",
+    "orden": 2,
+    "marca": "Brava",
+    "modelo": "Nevada",
+    "imagen": "img/entregas/entrega-2025-05-10-2.jpeg"
+  },
+  {
+    "id": 145,
+    "fecha": "2025-05-10",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-05-10-1.jpeg"
+  },
+  {
+    "id": 146,
+    "fecha": "2025-05-09",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-05-09.jpeg"
+  },
+  {
+    "id": 147,
+    "fecha": "2025-05-05",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Smash Full",
+    "imagen": "img/entregas/entrega-2025-05-05.jpeg"
+  },
+  {
+    "id": 148,
+    "fecha": "2025-04-29",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Fox",
+    "imagen": "img/entregas/entrega-2025-04-29.jpeg"
+  },
+  {
+    "id": 149,
+    "fecha": "2025-04-25",
+    "orden": 2,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-04-25-2.jpeg"
+  },
+  {
+    "id": 150,
+    "fecha": "2025-04-25",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-04-25-1.jpeg"
+  },
+  {
+    "id": 151,
+    "fecha": "2025-04-15",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-04-15.jpeg"
+  },
+  {
+    "id": 152,
+    "fecha": "2025-04-14",
+    "orden": 2,
+    "marca": "Chevrolet",
+    "modelo": "Prisma",
+    "imagen": "img/entregas/entrega-2025-04-14-2.jpeg"
+  },
+  {
+    "id": 152,
+    "fecha": "2025-04-14",
+    "orden": 1,
+    "marca": "Brava",
+    "modelo": "Nevada",
+    "imagen": "img/entregas/entrega-2025-04-14-1.jpeg"
+  },
+  {
+    "id": 153,
+    "fecha": "2025-04-12",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-04-12.jpeg"
+  },
+  {
+    "id": 154,
+    "fecha": "2025-04-10",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Smash Full",
+    "imagen": "img/entregas/entrega-2025-04-10.jpeg"
+  },
+  {
+    "id": 154,
+    "fecha": "2025-04-09",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-04-09.JPEG"
+  },
+  {
+    "id": 155,
+    "fecha": "2025-03-12",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-03-12.jpeg"
+  },
+  {
+    "id": 156,
+    "fecha": "2025-03-11",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "Blitz",
+    "imagen": "img/entregas/entrega-2025-03-11.jpeg"
+  },
+  {
+    "id": 157,
+    "fecha": "2025-03-10",
+    "orden": 1,
+    "marca": "Honda",
+    "modelo": "Navi",
+    "imagen": "img/entregas/entrega-2025-03-10.jpeg"
+  },
+  {
+    "id": 158,
+    "fecha": "2025-03-05",
+    "orden": 1,
+    "marca": "Brava",
+    "modelo": "Nevada",
+    "imagen": "img/entregas/entrega-2025-03-05.jpeg"
+  },
+  {
+    "id": 159,
+    "fecha": "2025-02-20",
+    "orden": 1,
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend",
+    "imagen": "img/entregas/entrega-2025-02-20.jpeg"
+  },
+  {
+    "id": 160,
+    "fecha": "2025-02-19",
+    "orden": 1,
+    "marca": "Gilera",
+    "modelo": "Sahel",
+    "imagen": "img/entregas/entrega-2025-02-19.jpeg"
+  },
+  {
+    "id": 161,
+    "fecha": "2025-02-17",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2",
+    "imagen": "img/entregas/entrega-2025-02-17.jpeg"
+  },
+  {
+    "id": 162,
+    "fecha": "2025-02-13",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-02-13.jpeg"
+  },
+  {
+    "id": 163,
+    "fecha": "2025-02-12",
+    "orden": 1,
+    "marca": "Ford",
+    "modelo": "Focus SE",
+    "imagen": "img/entregas/entrega-2025-02-12.jpeg"
+  },
+  {
+    "id": 164,
+    "fecha": "2025-02-07",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-02-07.jpeg"
+  },
+  {
+    "id": 165,
+    "fecha": "2025-02-06",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-02-06.jpeg"
+  },
+  {
+    "id": 166,
+    "fecha": "2025-02-04",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-02-04.jpeg"
+  },
+  {
+    "id": 167,
+    "fecha": "2025-02-01",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-02-01.jpeg"
+  },
+  {
+    "id": 168,
+    "fecha": "2025-01-31",
+    "orden": 1,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-01-31.jpeg"
+  },
+  {
+    "id": 169,
+    "fecha": "2025-01-15",
+    "orden": 2,
+    "marca": "Corven",
+    "modelo": "Energy",
+    "imagen": "img/entregas/entrega-2025-01-15.jpg"
+  },
+  {
+    "id": 170,
+    "fecha": "2025-01-15",
+    "orden": 1,
+    "marca": "Motomel",
+    "modelo": "S2",
+    "imagen": "img/entregas/entrega-2025-01-15.jpeg"
+  },
+  {
+    "id": 171,
+    "fecha": "2025-01-11",
+    "orden": 1,
+    "marca": "Zanella",
+    "modelo": "ZB",
+    "imagen": "img/entregas/entrega-2025-01-11.jpeg"
+  },
+  {
+    "id": 172,
+    "fecha": "2025-01-10",
+    "orden": 1,
+    "marca": "Chevrolet",
+    "modelo": "Astra",
+    "imagen": "img/entregas/entrega-2025-01-10.jpeg"
   }
 ]

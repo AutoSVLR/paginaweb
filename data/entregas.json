@@ -1413,7 +1413,7 @@
     "orden": 1,
     "marca": "Zanella",
     "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-01-11.jpeg"
+    "imagen": "img/entregas/entrega-2025-01-11.jpg"
   },
   {
     "id": 172,
@@ -1421,6 +1421,6 @@
     "orden": 1,
     "marca": "Chevrolet",
     "modelo": "Astra",
-    "imagen": "img/entregas/entrega-2025-01-10.jpeg"
+    "imagen": "img/entregas/entrega-2025-01-10.jpg"
   }
 ]

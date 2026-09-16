@@ -1,1426 +1,3258 @@
 [
   {
     "id": 1,
-    "fecha": "2026-08-21",
-    "orden": 2,
-    "marca": "Toyota",
-    "modelo": "Etios",
-    "imagen": "img/entregas/entrega-2026-08-21-2.png"
+    "fecha": "2020-11-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2020-11-26.jpg"
   },
   {
     "id": 2,
-    "fecha": "2026-08-21",
-    "orden": 2,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-08-21-1.png"
+    "fecha": "2020-12-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2020-12-12.jpg"
   },
   {
     "id": 3,
-    "fecha": "2026-08-20",
-    "orden": 2,
-    "marca": "Peugeot",
-    "modelo": "Partner",
-    "imagen": "img/entregas/entrega-2026-08-20-2.png"
+    "fecha": "2021-01-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-01-25.jpg"
   },
   {
     "id": 4,
-    "fecha": "2026-08-20",
+    "fecha": "2021-03-03",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-08-20-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-03-03.jpg"
   },
   {
     "id": 5,
-    "fecha": "2026-08-05",
+    "fecha": "2021-05-11",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2026-08-05.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-05-11.jpg"
   },
   {
     "id": 6,
-    "fecha": "2026-07-30",
+    "fecha": "2021-05-15",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Clio Mio",
-    "imagen": "img/entregas/entrega-2026-07-30.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-05-15.jpg"
   },
   {
     "id": 7,
-    "fecha": "2026-08-08",
+    "fecha": "2021-07-17",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz Plus",
-    "imagen": "img/entregas/entrega-2026-08-08.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-07-17.jpg"
   },
   {
     "id": 8,
-    "fecha": "2026-07-29",
+    "fecha": "2021-07-20",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Strada",
-    "imagen": "img/entregas/entrega-2026-07-29.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-07-20.jpg"
   },
   {
     "id": 9,
-    "fecha": "2026-07-27",
+    "fecha": "2021-07-23",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2026-07-27.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-07-23.jpg"
   },
   {
     "id": 10,
-    "fecha": "2026-07-18",
-    "orden": 2,
-    "marca": "Volkswagen",
-    "modelo": "Voyage",
-    "imagen": "img/entregas/entrega-2026-07-18-2.png"
+    "fecha": "2021-07-31",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-07-31.jpg"
   },
   {
     "id": 11,
-    "fecha": "2026-07-18",
+    "fecha": "2021-08-07",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Voyage",
-    "imagen": "img/entregas/entrega-2026-07-18-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-08-07.jpg"
   },
   {
     "id": 12,
-    "fecha": "2026-07-14",
+    "fecha": "2021-08-28",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ecosport",
-    "imagen": "img/entregas/entrega-2026-07-14.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-08-28.jpg"
   },
   {
     "id": 13,
-    "fecha": "2026-08-14",
+    "fecha": "2021-08-31",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2026-08-14.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-08-31.png"
   },
   {
     "id": 14,
-    "fecha": "2026-07-02",
-    "orden": 2,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-07-02-2.png"
-  },
-  {
-    "id": 14,
-    "fecha": "2026-07-02",
+    "fecha": "2021-09-11",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Onix",
-    "imagen": "img/entregas/entrega-2026-07-02-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-09-11.jpg"
   },
   {
     "id": 15,
-    "fecha": "2026-07-01",
-    "orden": 2,
-    "marca": "Fiat",
-    "modelo": "Mobi",
-    "imagen": "img/entregas/entrega-2026-07-01-2.png"
+    "fecha": "2021-09-18",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-09-18.jpg"
   },
   {
     "id": 16,
-    "fecha": "2026-07-01",
+    "fecha": "2021-10-05",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2026-07-01-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-05.jpg"
   },
   {
     "id": 17,
-    "fecha": "2026-06-30",
-    "orden": 3,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-06-30-3.png"
+    "fecha": "2021-10-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-14.jpg"
   },
   {
     "id": 18,
-    "fecha": "2026-06-30",
-    "orden": 2,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4x2",
-    "imagen": "img/entregas/entrega-2026-06-30-2.png"
+    "fecha": "2021-10-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-20.jpg"
   },
   {
     "id": 19,
-    "fecha": "2026-06-30",
+    "fecha": "2021-10-23",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-06-30-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-23.jpg"
   },
   {
     "id": 20,
-    "fecha": "2026-06-27",
+    "fecha": "2021-10-26",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Power",
-    "imagen": "img/entregas/entrega-2026-06-27.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-26.jpg"
   },
   {
     "id": 21,
-    "fecha": "2026-06-24",
+    "fecha": "2021-10-30",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2026-06-24.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-30.jpg"
   },
   {
     "id": 22,
-    "fecha": "2026-06-23",
-    "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2",
-    "imagen": "img/entregas/entrega-2026-06-23.png"
+    "fecha": "2021-10-30",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-10-30-1.jpg"
   },
   {
     "id": 23,
-    "fecha": "2026-06-19",
+    "fecha": "2021-11-06",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-06-19.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-11-06.jpg"
   },
   {
     "id": 24,
-    "fecha": "2026-06-17",
+    "fecha": "2021-11-19",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ka SEL Plus",
-    "imagen": "img/entregas/entrega-2026-06-17.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-11-19.jpg"
   },
   {
     "id": 25,
-    "fecha": "2026-06-11",
+    "fecha": "2021-11-24",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-06-11.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-11-24.jpg"
   },
   {
     "id": 26,
-    "fecha": "2026-06-10",
-    "orden": 2,
-    "marca": "Peugeot",
-    "modelo": "207",
-    "imagen": "img/entregas/entrega-2026-06-10-2.png"
-  },
-  {
-    "id": 26,
-    "fecha": "2026-06-10",
+    "fecha": "2021-11-29",
     "orden": 1,
-    "marca": "Toyota",
-    "modelo": "Hilux",
-    "imagen": "img/entregas/entrega-2026-06-10-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-11-29.jpg"
   },
   {
     "id": 27,
-    "fecha": "2026-06-08",
+    "fecha": "2021-12-07",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ka Viral",
-    "imagen": "img/entregas/entrega-2026-06-08.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-12-07.jpg"
   },
   {
     "id": 28,
-    "fecha": "2026-06-05",
+    "fecha": "2021-12-21",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2026-06-05.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2021-12-21.jpg"
   },
   {
     "id": 29,
-    "fecha": "2026-06-02",
+    "fecha": "2022-01-12",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Palio Attractive",
-    "imagen": "img/entregas/entrega-2026-06-02.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-01-12.jpg"
   },
   {
     "id": 30,
-    "fecha": "2026-08-26",
+    "fecha": "2022-01-13",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Argo",
-    "imagen": "img/entregas/entrega-2026-08-26.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-01-13.jpg"
   },
   {
     "id": 31,
-    "fecha": "2026-08-27",
+    "fecha": "2022-01-19",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-08-27.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-01-19.jpg"
   },
   {
     "id": 32,
-    "fecha": "2026-08-28",
+    "fecha": "2022-01-27",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-08-28.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-01-27.jpg"
   },
   {
     "id": 33,
-    "fecha": "2026-05-21",
+    "fecha": "2022-02-11",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-05-21.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-02-11.jpg"
   },
   {
     "id": 34,
-    "fecha": "2026-05-18",
-    "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz Plus",
-    "imagen": "img/entregas/entrega-2026-05-18.jpeg"
+    "fecha": "2022-02-11",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-02-11-1.jpg"
   },
   {
     "id": 35,
-    "fecha": "2026-05-16",
+    "fecha": "2022-02-19",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Triax",
-    "imagen": "img/entregas/entrega-2026-05-16.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-02-19.jpg"
   },
   {
     "id": 36,
-    "fecha": "2026-05-15",
+    "fecha": "2022-03-03",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "XR",
-    "imagen": "img/entregas/entrega-2026-05-15.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-03-03.jpg"
   },
   {
     "id": 37,
-    "fecha": "2026-05-13",
+    "fecha": "2022-03-18",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Twister",
-    "imagen": "img/entregas/entrega-2026-05-13.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-03-18.jpg"
   },
   {
     "id": 38,
-    "fecha": "2026-05-12",
+    "fecha": "2022-03-26",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-05-12.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-03-26.jpg"
   },
   {
     "id": 39,
-    "fecha": "2026-05-11",
-    "orden": 3,
-    "marca": "Honda",
-    "modelo": "Twister",
-    "imagen": "img/entregas/entrega-2026-05-11-3.png"
+    "fecha": "2022-04-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-08.jpg"
   },
   {
     "id": 40,
-    "fecha": "2026-05-11",
-    "orden": 2,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-05-11-2.png"
+    "fecha": "2022-04-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-20.png"
   },
   {
     "id": 41,
-    "fecha": "2026-05-11",
+    "fecha": "2022-04-21",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Twister",
-    "imagen": "img/entregas/entrega-2026-05-11-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-21.png"
   },
   {
     "id": 42,
-    "fecha": "2026-05-08",
+    "fecha": "2022-04-22",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ranger 4x2",
-    "imagen": "img/entregas/entrega-2026-05-08.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-22.png"
   },
   {
     "id": 43,
-    "fecha": "2026-04-24",
+    "fecha": "2022-04-24",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2 Full",
-    "imagen": "img/entregas/entrega-2026-04-24.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-24.png"
   },
   {
     "id": 44,
-    "fecha": "2026-04-18",
+    "fecha": "2022-04-25",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2 Full",
-    "imagen": "img/entregas/entrega-2026-04-18.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-25.png"
   },
   {
     "id": 45,
-    "fecha": "2026-04-17",
+    "fecha": "2022-04-26",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4x2",
-    "imagen": "img/entregas/entrega-2026-04-17.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-26.png"
   },
   {
     "id": 46,
-    "fecha": "2026-04-16",
+    "fecha": "2022-04-28",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz Plus",
-    "imagen": "img/entregas/entrega-2026-04-16.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-28.jpg"
   },
   {
     "id": 47,
-    "fecha": "2026-04-14",
+    "fecha": "2022-04-30",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-04-14.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-04-30.jpg"
   },
   {
     "id": 48,
-    "fecha": "2026-04-13",
+    "fecha": "2022-05-19",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2026-04-13.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-05-19.jpg"
   },
   {
     "id": 49,
-    "fecha": "2026-04-07",
+    "fecha": "2022-05-28",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2026-04-07.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-05-28.jpg"
   },
   {
     "id": 50,
-    "fecha": "2026-03-31",
+    "fecha": "2022-05-30",
     "orden": 1,
-    "marca": "Bajaj",
-    "modelo": "Rouser LS",
-    "imagen": "img/entregas/entrega-2026-03-31.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-05-30.jpg"
   },
   {
     "id": 51,
-    "fecha": "2026-03-30",
+    "fecha": "2022-06-17",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2026-03-31.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-06-17.jpeg"
   },
   {
     "id": 52,
-    "fecha": "2026-03-19",
+    "fecha": "2022-07-17",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB full",
-    "imagen": "img/entregas/entrega-2026-03-19.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-17.jpg"
   },
   {
     "id": 53,
-    "fecha": "2026-03-09",
+    "fecha": "2022-07-19",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-03-09.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-19.jpg"
   },
   {
     "id": 54,
-    "fecha": "2026-03-07",
+    "fecha": "2022-07-21",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB full",
-    "imagen": "img/entregas/entrega-2026-03-07.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-21.jpg"
   },
   {
     "id": 55,
-    "fecha": "2026-03-06",
+    "fecha": "2022-07-23",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ranger 4x4",
-    "imagen": "img/entregas/entrega-2026-03-06.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-23.jpg"
   },
   {
     "id": 56,
-    "fecha": "2026-02-07",
+    "fecha": "2022-07-25",
     "orden": 1,
-    "marca": "Peugeot",
-    "modelo": "Partner",
-    "imagen": "img/entregas/entrega-2026-02-07.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-25.jpg"
   },
   {
     "id": 57,
-    "fecha": "2026-02-06",
+    "fecha": "2022-07-26",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Logan",
-    "imagen": "img/entregas/entrega-2026-02-06.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-26.jpg"
   },
   {
     "id": 58,
-    "fecha": "2026-02-04",
-    "orden": 2,
-    "marca": "Renault",
-    "modelo": "Duster Oroch",
-    "imagen": "img/entregas/entrega-2026-02-04-2.png"
+    "fecha": "2022-07-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-27.jpg"
   },
   {
     "id": 59,
-    "fecha": "2026-02-04",
+    "fecha": "2022-07-28",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Clio Mio",
-    "imagen": "img/entregas/entrega-2026-02-04-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-07-28.jpg"
   },
   {
     "id": 60,
-    "fecha": "2026-02-02",
+    "fecha": "2022-08-17",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-02-02.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-08-17.jpg"
   },
   {
     "id": 61,
-    "fecha": "2026-01-28",
+    "fecha": "2022-08-18",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Suran",
-    "imagen": "img/entregas/entrega-2026-01-28.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-08-18.jpg"
   },
   {
     "id": 62,
-    "fecha": "2026-01-23",
+    "fecha": "2022-08-19",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Navi",
-    "imagen": "img/entregas/entrega-2026-01-23.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-08-19.jpg"
   },
   {
     "id": 63,
-    "fecha": "2026-01-22",
+    "fecha": "2022-09-07",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Up!",
-    "imagen": "img/entregas/entrega-2026-01-22.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-09-07.jpg"
   },
   {
     "id": 64,
-    "fecha": "2026-01-17",
-    "orden": 2,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2026-01-17-2.png"
+    "fecha": "2022-09-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-09-09.jpg"
   },
   {
     "id": 65,
-    "fecha": "2026-01-17",
+    "fecha": "2022-09-10",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2026-01-17-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-09-10.jpg"
   },
   {
     "id": 66,
-    "fecha": "2026-01-16",
+    "fecha": "2022-09-15",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2026-01-16.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-09-15.jpg"
   },
   {
     "id": 67,
-    "fecha": "2026-01-02",
+    "fecha": "2022-09-22",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4x4",
-    "imagen": "img/entregas/entrega-2026-01-02.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-09-22.jpg"
   },
   {
     "id": 68,
-    "fecha": "2025-12-30",
-    "orden": 2,
-    "marca": "Toyota",
-    "modelo": "Etios",
-    "imagen": "img/entregas/entrega-2025-12-30-2.png"
+    "fecha": "2022-10-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-21.jpg"
   },
   {
     "id": 69,
-    "fecha": "2025-12-30",
+    "fecha": "2022-10-24",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2025-12-30-1.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-24.jpg"
   },
   {
     "id": 70,
-    "fecha": "2025-12-19",
+    "fecha": "2022-10-25",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2025-12-19.png"
-  },
-  {
-    "id": 69,
-    "fecha": "2025-12-16",
-    "orden": 1,
-    "marca": "Renault",
-    "modelo": "Fluence",
-    "imagen": "img/entregas/entrega-2025-12-16.png"
-  },
-  {
-    "id": 70,
-    "fecha": "2025-12-13",
-    "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Smash Full",
-    "imagen": "img/entregas/entrega-2025-12-13.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-25.jpg"
   },
   {
     "id": 71,
-    "fecha": "2025-12-12",
+    "fecha": "2022-10-26",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Focus SE",
-    "imagen": "img/entregas/entrega-2025-12-12.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-26.jpg"
   },
   {
     "id": 72,
-    "fecha": "2025-12-05",
+    "fecha": "2022-10-28",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Palio Fire",
-    "imagen": "img/entregas/entrega-2025-12-05.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-28.jpeg"
   },
   {
     "id": 73,
-    "fecha": "2025-11-27",
+    "fecha": "2022-10-29",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Clio 2",
-    "imagen": "img/entregas/entrega-2025-11-27.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-29.jpg"
   },
   {
     "id": 74,
-    "fecha": "2025-11-25",
+    "fecha": "2022-10-31",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZR",
-    "imagen": "img/entregas/entrega-2025-11-25.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-10-31.jpg"
   },
   {
     "id": 75,
-    "fecha": "2025-11-14",
+    "fecha": "2022-11-22",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Fiesta Kinetick",
-    "imagen": "img/entregas/entrega-2025-11-14.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-11-22.jpg"
   },
   {
     "id": 76,
-    "fecha": "2025-11-06",
+    "fecha": "2022-12-02",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Kwid",
-    "imagen": "img/entregas/entrega-2025-11-06.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-02.png"
   },
   {
     "id": 77,
-    "fecha": "2025-10-10",
+    "fecha": "2022-12-05",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Sandero",
-    "imagen": "img/entregas/entrega-2025-10-10.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-05.png"
   },
   {
     "id": 78,
-    "fecha": "2025-10-03",
+    "fecha": "2022-12-07",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2025-10-03.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-07.png"
   },
   {
     "id": 79,
-    "fecha": "2025-09-27",
-    "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2025-09-27.jpeg"
+    "fecha": "2022-12-07",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-07-1.png"
   },
   {
     "id": 80,
-    "fecha": "2025-09-24",
+    "fecha": "2022-12-09",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-09-24.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-09.png"
   },
   {
     "id": 81,
-    "fecha": "2025-09-19",
+    "fecha": "2022-12-14",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2025-09-19.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-14.png"
   },
   {
     "id": 82,
-    "fecha": "2025-09-18",
-    "orden": 2,
-    "marca": "Ford",
-    "modelo": "Ranger 4x2",
-    "imagen": "img/entregas/entrega-2025-09-18-2.jpeg"
+    "fecha": "2022-12-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-21.png"
   },
   {
     "id": 83,
-    "fecha": "2025-09-18",
+    "fecha": "2022-12-22",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-09-18-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-22.png"
   },
   {
     "id": 84,
-    "fecha": "2025-09-15",
-    "orden": 2,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-09-15-2.jpeg"
+    "fecha": "2022-12-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-24.png"
   },
   {
     "id": 85,
-    "fecha": "2025-09-15",
+    "fecha": "2022-12-27",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ka Viral",
-    "imagen": "img/entregas/entrega-2025-09-15-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2022-12-27.png"
   },
   {
     "id": 86,
-    "fecha": "2025-09-11",
+    "fecha": "2023-01-17",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-09-11.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-01-17.jpg"
   },
   {
     "id": 87,
-    "fecha": "2025-09-09",
+    "fecha": "2023-02-10",
     "orden": 1,
-    "marca": "Brava",
-    "modelo": "Nevada",
-    "imagen": "img/entregas/entrega-2025-09-09.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-02-10.jpg"
   },
   {
     "id": 88,
-    "fecha": "2025-09-03",
-    "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Trend",
-    "imagen": "img/entregas/entrega-2025-09-03.jpeg"
+    "fecha": "2023-02-10",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-02-10-1.jpg"
   },
   {
     "id": 89,
-    "fecha": "2025-08-29",
+    "fecha": "2023-02-11",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Agile",
-    "imagen": "img/entregas/entrega-2025-08-29.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-02-11.jpg"
   },
   {
     "id": 90,
-    "fecha": "2025-08-28",
+    "fecha": "2023-03-17",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2 Full",
-    "imagen": "img/entregas/entrega-2025-08-28.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-03-17.jpg"
   },
   {
     "id": 91,
-    "fecha": "2025-08-23",
+    "fecha": "2023-03-24",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2025-08-23.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-03-24.jpg"
   },
   {
     "id": 92,
-    "fecha": "2025-08-22",
+    "fecha": "2023-03-25",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-08-22.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-03-25.jpg"
   },
   {
     "id": 93,
-    "fecha": "2025-08-21",
+    "fecha": "2023-03-28",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2025-08-21.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-03-28.png"
   },
   {
     "id": 94,
-    "fecha": "2025-08-20",
+    "fecha": "2023-03-30",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Palio Fire",
-    "imagen": "img/entregas/entrega-2025-08-20.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-03-30.jpg"
   },
   {
     "id": 95,
-    "fecha": "2025-08-14",
-    "orden": 2,
-    "marca": "Chevrolet",
-    "modelo": "Aveo",
-    "imagen": "img/entregas/entrega-2025-08-14-2.jpeg"
+    "fecha": "2023-04-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-04.jpg"
   },
   {
     "id": 96,
-    "fecha": "2025-08-14",
-    "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2 Full",
-    "imagen": "img/entregas/entrega-2025-08-14-1.jpeg"
+    "fecha": "2023-04-04",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-04-1.jpg"
   },
   {
     "id": 97,
-    "fecha": "2025-08-12",
+    "fecha": "2023-04-06",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Power",
-    "imagen": "img/entregas/entrega-2025-08-12.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-06.jpg"
   },
   {
     "id": 98,
-    "fecha": "2025-08-08",
+    "fecha": "2023-04-08",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Focus SE",
-    "imagen": "img/entregas/entrega-2025-08-08.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-08.jpg"
   },
   {
     "id": 99,
-    "fecha": "2025-08-07",
+    "fecha": "2023-04-10",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ka Viral",
-    "imagen": "img/entregas/entrega-2025-08-07.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-10.jpg"
   },
   {
     "id": 100,
-    "fecha": "2025-08-05",
+    "fecha": "2023-04-12",
     "orden": 1,
-    "marca": "Bajaj",
-    "modelo": "Boxer",
-    "imagen": "img/entregas/entrega-2025-08-05.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-12.jpg"
   },
   {
     "id": 101,
-    "fecha": "2025-07-31",
+    "fecha": "2023-04-13",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Trend",
-    "imagen": "img/entregas/entrega-2025-07-31.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-13.jpg"
   },
   {
     "id": 102,
-    "fecha": "2025-07-30",
-    "orden": 4,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2025-07-30-4.jpeg"
+    "fecha": "2023-04-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-15.jpg"
   },
   {
     "id": 103,
-    "fecha": "2025-07-30",
-    "orden": 3,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2025-07-30-3.jpeg"
+    "fecha": "2023-04-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-19.jpg"
   },
   {
     "id": 104,
-    "fecha": "2025-07-30",
-    "orden": 2,
-    "marca": "Peugeot",
-    "modelo": "208",
-    "imagen": "img/entregas/entrega-2025-07-30-2.jpeg"
+    "fecha": "2023-04-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-20.jpg"
   },
   {
     "id": 105,
-    "fecha": "2025-07-30",
+    "fecha": "2023-04-21",
     "orden": 1,
-    "marca": "Toyota",
-    "modelo": "Corolla",
-    "imagen": "img/entregas/entrega-2025-07-30-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-21.jpg"
   },
   {
     "id": 106,
-    "fecha": "2025-07-26",
+    "fecha": "2023-04-22",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-07-26.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-22.jpg"
   },
   {
     "id": 107,
-    "fecha": "2025-07-25",
-    "orden": 2,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-07-25-2.jpeg"
+    "fecha": "2023-04-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-24.jpg"
   },
   {
     "id": 108,
-    "fecha": "2025-07-25",
+    "fecha": "2023-04-25",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Wave",
-    "imagen": "img/entregas/entrega-2025-07-25-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-04-25.jpg"
   },
   {
     "id": 109,
-    "fecha": "2025-07-24",
-    "orden": 2,
-    "marca": "Motomel",
-    "modelo": "Skua 150",
-    "imagen": "img/entregas/entrega-2025-07-24-2.jpeg"
+    "fecha": "2023-05-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-05-09.jpg"
   },
   {
     "id": 110,
-    "fecha": "2025-07-24",
+    "fecha": "2023-06-09",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2",
-    "imagen": "img/entregas/entrega-2025-07-24-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-06-09.png"
   },
   {
     "id": 111,
-    "fecha": "2025-07-23",
+    "fecha": "2023-06-15",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-07-23.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-06-15.jpg"
   },
   {
     "id": 112,
-    "fecha": "2026-08-31",
+    "fecha": "2023-07-08",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Smash Full",
-    "imagen": "img/entregas/entrega-2026-08-31.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-08.jpg"
   },
   {
     "id": 113,
-    "fecha": "2026-09-03",
+    "fecha": "2023-07-11",
     "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Palio Fire",
-    "imagen": "img/entregas/entrega-2026-09-03.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-11.jpg"
   },
   {
     "id": 114,
-    "fecha": "2026-09-07",
+    "fecha": "2023-07-12",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2026-09-07.png"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-12.jpg"
   },
   {
     "id": 115,
-    "fecha": "2025-07-22",
-    "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Cruze",
-    "imagen": "img/entregas/entrega-2025-07-22.jpeg"
+    "fecha": "2023-07-12",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-12-1.jpg"
   },
   {
     "id": 116,
-    "fecha": "2025-07-21",
+    "fecha": "2023-07-13",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ecosport",
-    "imagen": "img/entregas/entrega-2025-07-21.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-13.jpg"
   },
   {
     "id": 117,
-    "fecha": "2025-07-19",
+    "fecha": "2023-07-14",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Celta",
-    "imagen": "img/entregas/entrega-2025-07-19.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-14.jpg"
   },
   {
     "id": 118,
-    "fecha": "2025-07-18",
+    "fecha": "2023-07-22",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Classic",
-    "imagen": "img/entregas/entrega-2025-07-18.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-22.jpg"
   },
   {
     "id": 119,
-    "fecha": "2025-07-17",
+    "fecha": "2023-07-27",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Ecosport",
-    "imagen": "img/entregas/entrega-2025-07-17.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-07-27.jpg"
   },
   {
     "id": 120,
-    "fecha": "2025-07-16",
+    "fecha": "2023-08-02",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Power",
-    "imagen": "img/entregas/entrega-2025-07-16.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-02.jpg"
   },
   {
     "id": 121,
-    "fecha": "2025-07-15",
+    "fecha": "2023-08-03",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Clio Mio",
-    "imagen": "img/entregas/entrega-2025-07-15.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-03.jpg"
   },
   {
     "id": 122,
-    "fecha": "2025-07-11",
-    "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2025-07-11.jpeg"
+    "fecha": "2023-08-03",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-03-1.jpg"
   },
   {
     "id": 123,
-    "fecha": "2025-07-07",
+    "fecha": "2023-08-04",
     "orden": 1,
-    "marca": "Renault",
-    "modelo": "Logan",
-    "imagen": "img/entregas/entrega-2025-07-07.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-04.jpg"
   },
   {
     "id": 124,
-    "fecha": "2025-07-03",
-    "orden": 1,
-    "marca": "Fiat",
-    "modelo": "Palio Attractive",
-    "imagen": "img/entregas/entrega-2025-07-03.jpeg"
+    "fecha": "2023-08-04",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-04-1.jpg"
   },
   {
     "id": 125,
-    "fecha": "2025-07-01",
+    "fecha": "2023-08-05",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-07-01.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-05.jpg"
   },
   {
     "id": 126,
-    "fecha": "2025-06-26",
-    "orden": 2,
-    "marca": "Chevrolet",
-    "modelo": "Onix",
-    "imagen": "img/entregas/entrega-2025-06-26-2.jpeg"
+    "fecha": "2023-08-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-12.jpg"
   },
   {
     "id": 127,
-    "fecha": "2025-06-26",
+    "fecha": "2023-08-26",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZT",
-    "imagen": "img/entregas/entrega-2025-06-26-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-08-26.jpg"
   },
   {
     "id": 128,
-    "fecha": "2025-06-24",
+    "fecha": "2023-09-04",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4x2",
-    "imagen": "img/entregas/entrega-2025-06-24.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-09-04.jpg"
   },
   {
     "id": 129,
-    "fecha": "2025-06-23",
+    "fecha": "2023-09-13",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-06-23.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-09-13.jpg"
   },
   {
     "id": 130,
-    "fecha": "2025-06-20",
+    "fecha": "2023-09-19",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB Tunning",
-    "imagen": "img/entregas/entrega-2025-06-20.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-09-19.jpg"
   },
   {
     "id": 131,
-    "fecha": "2025-06-19",
-    "orden": 3,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-06-19-3.jpeg"
+    "fecha": "2023-10-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-10-03.jpg"
   },
   {
     "id": 132,
-    "fecha": "2025-06-19",
-    "orden": 2,
-    "marca": "Renault",
-    "modelo": "Kangoo",
-    "imagen": "img/entregas/entrega-2025-06-19-2.jpeg"
+    "fecha": "2023-10-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-10-07.jpg"
   },
   {
     "id": 133,
-    "fecha": "2025-06-19",
+    "fecha": "2023-10-21",
     "orden": 1,
-    "marca": "Toyota",
-    "modelo": "Hilux 4X4",
-    "imagen": "img/entregas/entrega-2025-06-19-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-10-21.jpg"
   },
   {
     "id": 134,
-    "fecha": "2025-06-05",
+    "fecha": "2023-10-25",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Navi",
-    "imagen": "img/entregas/entrega-2025-06-05.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-10-25.png"
   },
   {
     "id": 135,
-    "fecha": "2025-06-04",
+    "fecha": "2023-11-06",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-06-04.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-11-06.png"
   },
   {
     "id": 136,
-    "fecha": "2025-05-28",
+    "fecha": "2023-11-07",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB full",
-    "imagen": "img/entregas/entrega-2025-05-28.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-11-07.png"
   },
   {
     "id": 137,
-    "fecha": "2025-05-27",
+    "fecha": "2023-11-10",
     "orden": 1,
-    "marca": "Citroen",
-    "modelo": "C4",
-    "imagen": "img/entregas/entrega-2025-05-27.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-11-10.png"
   },
   {
     "id": 138,
-    "fecha": "2025-05-21",
+    "fecha": "2023-11-27",
     "orden": 1,
-    "marca": "Peugeot",
-    "modelo": "207",
-    "imagen": "img/entregas/entrega-2025-05-21.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-11-27.png"
   },
   {
     "id": 139,
-    "fecha": "2025-05-20",
-    "orden": 2,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-05-20-2.jpeg"
+    "fecha": "2023-11-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-11-28.png"
   },
   {
     "id": 140,
-    "fecha": "2025-05-20",
+    "fecha": "2023-12-05",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-05-20-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-05.png"
   },
   {
     "id": 141,
-    "fecha": "2025-05-15",
-    "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4x4",
-    "imagen": "img/entregas/entrega-2025-05-15.jpeg"
+    "fecha": "2023-12-05",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-05-1.png"
   },
   {
     "id": 142,
-    "fecha": "2025-05-13",
-    "orden": 2,
-    "marca": "Motomel",
-    "modelo": "S2",
-    "imagen": "img/entregas/entrega-2025-05-13-2.jpeg"
+    "fecha": "2023-12-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-16.png"
   },
   {
     "id": 143,
-    "fecha": "2025-05-13",
+    "fecha": "2023-12-20",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2025-05-13-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-20.png"
   },
   {
     "id": 144,
-    "fecha": "2025-05-10",
+    "fecha": "2023-12-20",
     "orden": 2,
-    "marca": "Brava",
-    "modelo": "Nevada",
-    "imagen": "img/entregas/entrega-2025-05-10-2.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-20-1.png"
   },
   {
     "id": 145,
-    "fecha": "2025-05-10",
-    "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-05-10-1.jpeg"
+    "fecha": "2023-12-20",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-20-2.png"
   },
   {
     "id": 146,
-    "fecha": "2025-05-09",
+    "fecha": "2023-12-21",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-05-09.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-21.png"
   },
   {
     "id": 147,
-    "fecha": "2025-05-05",
-    "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Smash Full",
-    "imagen": "img/entregas/entrega-2025-05-05.jpeg"
+    "fecha": "2023-12-21",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-21-1.png"
   },
   {
     "id": 148,
-    "fecha": "2025-04-29",
+    "fecha": "2023-12-22",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Fox",
-    "imagen": "img/entregas/entrega-2025-04-29.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-22.png"
   },
   {
     "id": 149,
-    "fecha": "2025-04-25",
+    "fecha": "2023-12-22",
     "orden": 2,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-04-25-2.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-22-1.png"
   },
   {
     "id": 150,
-    "fecha": "2025-04-25",
+    "fecha": "2023-12-29",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-04-25-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2023-12-29.png"
   },
   {
     "id": 151,
-    "fecha": "2025-04-15",
+    "fecha": "2024-01-10",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-04-15.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-01-10.png"
   },
   {
     "id": 152,
-    "fecha": "2025-04-14",
-    "orden": 2,
-    "marca": "Chevrolet",
-    "modelo": "Prisma",
-    "imagen": "img/entregas/entrega-2025-04-14-2.jpeg"
-  },
-  {
-    "id": 152,
-    "fecha": "2025-04-14",
+    "fecha": "2024-01-16",
     "orden": 1,
-    "marca": "Brava",
-    "modelo": "Nevada",
-    "imagen": "img/entregas/entrega-2025-04-14-1.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-01-16.png"
   },
   {
     "id": 153,
-    "fecha": "2025-04-12",
+    "fecha": "2024-03-08",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-04-12.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-03-08.png"
   },
   {
     "id": 154,
-    "fecha": "2025-04-10",
+    "fecha": "2024-03-12",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Smash Full",
-    "imagen": "img/entregas/entrega-2025-04-10.jpeg"
-  },
-  {
-    "id": 154,
-    "fecha": "2025-04-09",
-    "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-04-09.JPEG"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-03-12.jpg"
   },
   {
     "id": 155,
-    "fecha": "2025-03-12",
+    "fecha": "2024-03-21",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-03-12.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-03-21.png"
   },
   {
     "id": 156,
-    "fecha": "2025-03-11",
+    "fecha": "2024-04-24",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "Blitz",
-    "imagen": "img/entregas/entrega-2025-03-11.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-04-24.png"
   },
   {
     "id": 157,
-    "fecha": "2025-03-10",
+    "fecha": "2024-04-26",
     "orden": 1,
-    "marca": "Honda",
-    "modelo": "Navi",
-    "imagen": "img/entregas/entrega-2025-03-10.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-04-26.png"
   },
   {
     "id": 158,
-    "fecha": "2025-03-05",
+    "fecha": "2024-05-02",
     "orden": 1,
-    "marca": "Brava",
-    "modelo": "Nevada",
-    "imagen": "img/entregas/entrega-2025-03-05.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-05-02.png"
   },
   {
     "id": 159,
-    "fecha": "2025-02-20",
+    "fecha": "2024-05-17",
     "orden": 1,
-    "marca": "Volkswagen",
-    "modelo": "Gol Trend",
-    "imagen": "img/entregas/entrega-2025-02-20.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-05-17.png"
   },
   {
     "id": 160,
-    "fecha": "2025-02-19",
+    "fecha": "2024-05-29",
     "orden": 1,
-    "marca": "Gilera",
-    "modelo": "Sahel",
-    "imagen": "img/entregas/entrega-2025-02-19.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-05-29.png"
   },
   {
     "id": 161,
-    "fecha": "2025-02-17",
+    "fecha": "2024-06-25",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2",
-    "imagen": "img/entregas/entrega-2025-02-17.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-06-25.png"
   },
   {
     "id": 162,
-    "fecha": "2025-02-13",
+    "fecha": "2024-07-02",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-02-13.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-07-02.jpg"
   },
   {
     "id": 163,
-    "fecha": "2025-02-12",
+    "fecha": "2024-07-10",
     "orden": 1,
-    "marca": "Ford",
-    "modelo": "Focus SE",
-    "imagen": "img/entregas/entrega-2025-02-12.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-07-10.jpg"
   },
   {
     "id": 164,
-    "fecha": "2025-02-07",
+    "fecha": "2024-07-11",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-02-07.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-07-11.jpg"
   },
   {
     "id": 165,
-    "fecha": "2025-02-06",
+    "fecha": "2024-07-16",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-02-06.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-07-16.jpg"
   },
   {
     "id": 166,
-    "fecha": "2025-02-04",
+    "fecha": "2024-08-01",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-02-04.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-08-01.jpg"
   },
   {
     "id": 167,
-    "fecha": "2025-02-01",
+    "fecha": "2024-08-02",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-02-01.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-08-02.jpg"
   },
   {
     "id": 168,
-    "fecha": "2025-01-31",
+    "fecha": "2024-08-15",
     "orden": 1,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-01-31.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-08-15.jpg"
   },
   {
     "id": 169,
-    "fecha": "2025-01-15",
-    "orden": 2,
-    "marca": "Corven",
-    "modelo": "Energy",
-    "imagen": "img/entregas/entrega-2025-01-15.jpg"
+    "fecha": "2024-08-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-08-16.jpg"
   },
   {
     "id": 170,
-    "fecha": "2025-01-15",
+    "fecha": "2024-08-27",
     "orden": 1,
-    "marca": "Motomel",
-    "modelo": "S2",
-    "imagen": "img/entregas/entrega-2025-01-15.jpeg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-08-27.jpg"
   },
   {
     "id": 171,
-    "fecha": "2025-01-11",
+    "fecha": "2024-09-04",
     "orden": 1,
-    "marca": "Zanella",
-    "modelo": "ZB",
-    "imagen": "img/entregas/entrega-2025-01-11.jpg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-04.jpg"
   },
   {
     "id": 172,
+    "fecha": "2024-09-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-06.jpg"
+  },
+  {
+    "id": 173,
+    "fecha": "2024-09-06",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-06-1.jpg"
+  },
+  {
+    "id": 174,
+    "fecha": "2024-09-06",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-06-2.jpg"
+  },
+  {
+    "id": 175,
+    "fecha": "2024-09-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-12.jpg"
+  },
+  {
+    "id": 176,
+    "fecha": "2024-09-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-13.jpg"
+  },
+  {
+    "id": 177,
+    "fecha": "2024-09-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-09-16.jpg"
+  },
+  {
+    "id": 178,
+    "fecha": "2024-10-02",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-10-02.jpg"
+  },
+  {
+    "id": 179,
+    "fecha": "2024-10-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-10-10.jpg"
+  },
+  {
+    "id": 180,
+    "fecha": "2024-11-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-04.jpg"
+  },
+  {
+    "id": 181,
+    "fecha": "2024-11-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-06.jpg"
+  },
+  {
+    "id": 182,
+    "fecha": "2024-11-06",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-06-1.jpg"
+  },
+  {
+    "id": 183,
+    "fecha": "2024-11-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-07.jpg"
+  },
+  {
+    "id": 184,
+    "fecha": "2024-11-07",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-07-1.jpg"
+  },
+  {
+    "id": 185,
+    "fecha": "2024-11-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-08.jpg"
+  },
+  {
+    "id": 186,
+    "fecha": "2024-11-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-11-09.jpg"
+  },
+  {
+    "id": 187,
+    "fecha": "2024-12-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-05.jpg"
+  },
+  {
+    "id": 188,
+    "fecha": "2024-12-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-09.jpg"
+  },
+  {
+    "id": 189,
+    "fecha": "2024-12-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-10.jpg"
+  },
+  {
+    "id": 190,
+    "fecha": "2024-12-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-12.jpg"
+  },
+  {
+    "id": 191,
+    "fecha": "2024-12-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-20.jpg"
+  },
+  {
+    "id": 192,
+    "fecha": "2024-12-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2024-12-28.jpg"
+  },
+  {
+    "id": 193,
     "fecha": "2025-01-10",
     "orden": 1,
-    "marca": "Chevrolet",
-    "modelo": "Astra",
-    "imagen": "img/entregas/entrega-2025-01-10.jpg"
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-01-10.jpg"
+  },
+  {
+    "id": 194,
+    "fecha": "2025-01-11",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-01-11.jpg"
+  },
+  {
+    "id": 195,
+    "fecha": "2025-01-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-01-15.jpeg"
+  },
+  {
+    "id": 196,
+    "fecha": "2025-01-15",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-01-15-1.jpg"
+  },
+  {
+    "id": 197,
+    "fecha": "2025-01-31",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-01-31.jpg"
+  },
+  {
+    "id": 198,
+    "fecha": "2025-02-01",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-01.jpg"
+  },
+  {
+    "id": 199,
+    "fecha": "2025-02-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-04.jpg"
+  },
+  {
+    "id": 200,
+    "fecha": "2025-02-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-06.jpg"
+  },
+  {
+    "id": 201,
+    "fecha": "2025-02-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-07.jpg"
+  },
+  {
+    "id": 202,
+    "fecha": "2025-02-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-12.jpeg"
+  },
+  {
+    "id": 203,
+    "fecha": "2025-02-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-13.jpg"
+  },
+  {
+    "id": 204,
+    "fecha": "2025-02-17",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-17.jpg"
+  },
+  {
+    "id": 205,
+    "fecha": "2025-02-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-19.jpeg"
+  },
+  {
+    "id": 206,
+    "fecha": "2025-02-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-02-20.jpg"
+  },
+  {
+    "id": 207,
+    "fecha": "2025-03-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-03-05.jpeg"
+  },
+  {
+    "id": 208,
+    "fecha": "2025-03-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-03-10.jpg"
+  },
+  {
+    "id": 209,
+    "fecha": "2025-03-11",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-03-11.jpeg"
+  },
+  {
+    "id": 210,
+    "fecha": "2025-03-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-03-12.jpeg"
+  },
+  {
+    "id": 211,
+    "fecha": "2025-04-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-10.jpg"
+  },
+  {
+    "id": 212,
+    "fecha": "2025-04-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-12.jpg"
+  },
+  {
+    "id": 213,
+    "fecha": "2025-04-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-14.jpg"
+  },
+  {
+    "id": 214,
+    "fecha": "2025-04-14",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-14-1.jpg"
+  },
+  {
+    "id": 215,
+    "fecha": "2025-04-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-15.jpeg"
+  },
+  {
+    "id": 216,
+    "fecha": "2025-04-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-25.png"
+  },
+  {
+    "id": 217,
+    "fecha": "2025-04-25",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-25-1.png"
+  },
+  {
+    "id": 218,
+    "fecha": "2025-04-29",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-04-29.jpg"
+  },
+  {
+    "id": 219,
+    "fecha": "2025-05-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-05.jpg"
+  },
+  {
+    "id": 220,
+    "fecha": "2025-05-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-09.jpeg"
+  },
+  {
+    "id": 221,
+    "fecha": "2025-05-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-10.jpg"
+  },
+  {
+    "id": 222,
+    "fecha": "2025-05-10",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-10-1.jpg"
+  },
+  {
+    "id": 223,
+    "fecha": "2025-05-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-13.jpg"
+  },
+  {
+    "id": 224,
+    "fecha": "2025-05-13",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-13-1.jpeg"
+  },
+  {
+    "id": 225,
+    "fecha": "2025-05-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-15.jpeg"
+  },
+  {
+    "id": 226,
+    "fecha": "2025-05-20",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-20-1.jpeg"
+  },
+  {
+    "id": 227,
+    "fecha": "2025-05-20",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-20-2.jpeg"
+  },
+  {
+    "id": 228,
+    "fecha": "2025-05-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-21.jpeg"
+  },
+  {
+    "id": 229,
+    "fecha": "2025-05-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-27.jpeg"
+  },
+  {
+    "id": 230,
+    "fecha": "2025-05-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-05-28.jpeg"
+  },
+  {
+    "id": 231,
+    "fecha": "2025-06-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-04.jpeg"
+  },
+  {
+    "id": 232,
+    "fecha": "2025-06-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-05.jpeg"
+  },
+  {
+    "id": 233,
+    "fecha": "2025-06-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-19.jpg"
+  },
+  {
+    "id": 234,
+    "fecha": "2025-06-19",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-19-1.jpeg"
+  },
+  {
+    "id": 235,
+    "fecha": "2025-06-19",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-19-2.jpeg"
+  },
+  {
+    "id": 236,
+    "fecha": "2025-06-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-20.jpeg"
+  },
+  {
+    "id": 237,
+    "fecha": "2025-06-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-23.jpeg"
+  },
+  {
+    "id": 238,
+    "fecha": "2025-06-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-24.jpeg"
+  },
+  {
+    "id": 239,
+    "fecha": "2025-06-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-26.jpg"
+  },
+  {
+    "id": 240,
+    "fecha": "2025-06-26",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-06-26-1.jpg"
+  },
+  {
+    "id": 241,
+    "fecha": "2025-07-01",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-01.jpeg"
+  },
+  {
+    "id": 242,
+    "fecha": "2025-07-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-03.jpeg"
+  },
+  {
+    "id": 243,
+    "fecha": "2025-07-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-07.jpeg"
+  },
+  {
+    "id": 244,
+    "fecha": "2025-07-11",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-11.jpeg"
+  },
+  {
+    "id": 245,
+    "fecha": "2025-07-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-15.jpeg"
+  },
+  {
+    "id": 246,
+    "fecha": "2025-07-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-16.jpeg"
+  },
+  {
+    "id": 247,
+    "fecha": "2025-07-17",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-17.jpeg"
+  },
+  {
+    "id": 248,
+    "fecha": "2025-07-18",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-18.jpeg"
+  },
+  {
+    "id": 249,
+    "fecha": "2025-07-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-19.jpeg"
+  },
+  {
+    "id": 250,
+    "fecha": "2025-07-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-21.jpeg"
+  },
+  {
+    "id": 251,
+    "fecha": "2025-07-22",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-22.jpeg"
+  },
+  {
+    "id": 252,
+    "fecha": "2025-07-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-23.png"
+  },
+  {
+    "id": 253,
+    "fecha": "2025-07-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-24.jpeg"
+  },
+  {
+    "id": 254,
+    "fecha": "2025-07-24",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-24-1.jpeg"
+  },
+  {
+    "id": 255,
+    "fecha": "2025-07-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-25.png"
+  },
+  {
+    "id": 256,
+    "fecha": "2025-07-25",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-25-1.png"
+  },
+  {
+    "id": 257,
+    "fecha": "2025-07-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-26.png"
+  },
+  {
+    "id": 258,
+    "fecha": "2025-07-30",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-30.png"
+  },
+  {
+    "id": 259,
+    "fecha": "2025-07-30",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-30-1.png"
+  },
+  {
+    "id": 260,
+    "fecha": "2025-07-30",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-30-2.jpeg"
+  },
+  {
+    "id": 261,
+    "fecha": "2025-07-30",
+    "orden": 4,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-30-3.jpeg"
+  },
+  {
+    "id": 262,
+    "fecha": "2025-07-31",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-07-31.png"
+  },
+  {
+    "id": 263,
+    "fecha": "2025-08-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-05.png"
+  },
+  {
+    "id": 264,
+    "fecha": "2025-08-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-07.jpeg"
+  },
+  {
+    "id": 265,
+    "fecha": "2025-08-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-08.jpeg"
+  },
+  {
+    "id": 266,
+    "fecha": "2025-08-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-09.png"
+  },
+  {
+    "id": 267,
+    "fecha": "2025-08-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-12.jpeg"
+  },
+  {
+    "id": 268,
+    "fecha": "2025-08-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-14.jpeg"
+  },
+  {
+    "id": 269,
+    "fecha": "2025-08-14",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-14-1.jpeg"
+  },
+  {
+    "id": 270,
+    "fecha": "2025-08-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-20.png"
+  },
+  {
+    "id": 271,
+    "fecha": "2025-08-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-21.jpeg"
+  },
+  {
+    "id": 272,
+    "fecha": "2025-08-22",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-22.jpeg"
+  },
+  {
+    "id": 273,
+    "fecha": "2025-08-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-23.png"
+  },
+  {
+    "id": 274,
+    "fecha": "2025-08-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-28.jpeg"
+  },
+  {
+    "id": 275,
+    "fecha": "2025-08-29",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-08-29.png"
+  },
+  {
+    "id": 276,
+    "fecha": "2025-09-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-03.jpeg"
+  },
+  {
+    "id": 277,
+    "fecha": "2025-09-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-09.jpeg"
+  },
+  {
+    "id": 278,
+    "fecha": "2025-09-11",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-11.png"
+  },
+  {
+    "id": 279,
+    "fecha": "2025-09-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-15.png"
+  },
+  {
+    "id": 280,
+    "fecha": "2025-09-15",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-15-1.jpeg"
+  },
+  {
+    "id": 281,
+    "fecha": "2025-09-18",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-18-1.jpeg"
+  },
+  {
+    "id": 282,
+    "fecha": "2025-09-18",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-18-2.jpeg"
+  },
+  {
+    "id": 283,
+    "fecha": "2025-09-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-19.png"
+  },
+  {
+    "id": 284,
+    "fecha": "2025-09-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-24.jpeg"
+  },
+  {
+    "id": 285,
+    "fecha": "2025-09-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-09-27.png"
+  },
+  {
+    "id": 286,
+    "fecha": "2025-10-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-10-03.jpeg"
+  },
+  {
+    "id": 287,
+    "fecha": "2025-10-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-10-10.png"
+  },
+  {
+    "id": 288,
+    "fecha": "2025-10-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-10-21.png"
+  },
+  {
+    "id": 289,
+    "fecha": "2025-10-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-10-23.png"
+  },
+  {
+    "id": 290,
+    "fecha": "2025-11-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-06.png"
+  },
+  {
+    "id": 291,
+    "fecha": "2025-11-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-13.png"
+  },
+  {
+    "id": 292,
+    "fecha": "2025-11-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-14.png"
+  },
+  {
+    "id": 293,
+    "fecha": "2025-11-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-20.png"
+  },
+  {
+    "id": 294,
+    "fecha": "2025-11-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-25.png"
+  },
+  {
+    "id": 295,
+    "fecha": "2025-11-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-26.png"
+  },
+  {
+    "id": 296,
+    "fecha": "2025-11-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-27.png"
+  },
+  {
+    "id": 297,
+    "fecha": "2025-11-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-11-28.png"
+  },
+  {
+    "id": 298,
+    "fecha": "2025-12-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-03.png"
+  },
+  {
+    "id": 299,
+    "fecha": "2025-12-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-05.png"
+  },
+  {
+    "id": 300,
+    "fecha": "2025-12-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-12.png"
+  },
+  {
+    "id": 301,
+    "fecha": "2025-12-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-13.png"
+  },
+  {
+    "id": 302,
+    "fecha": "2025-12-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-16.png"
+  },
+  {
+    "id": 303,
+    "fecha": "2025-12-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-19.png"
+  },
+  {
+    "id": 304,
+    "fecha": "2025-12-29",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-29.png"
+  },
+  {
+    "id": 305,
+    "fecha": "2025-12-29",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-29-1.png"
+  },
+  {
+    "id": 306,
+    "fecha": "2025-12-30",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-30.png"
+  },
+  {
+    "id": 307,
+    "fecha": "2025-12-30",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2025-12-30-1.png"
+  },
+  {
+    "id": 308,
+    "fecha": "2026-01-02",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-02.png"
+  },
+  {
+    "id": 309,
+    "fecha": "2026-01-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-07.png"
+  },
+  {
+    "id": 310,
+    "fecha": "2026-01-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-10.png"
+  },
+  {
+    "id": 311,
+    "fecha": "2026-01-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-16.png"
+  },
+  {
+    "id": 312,
+    "fecha": "2026-01-16",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-16-1.png"
+  },
+  {
+    "id": 313,
+    "fecha": "2026-01-17",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-17-1.png"
+  },
+  {
+    "id": 314,
+    "fecha": "2026-01-17",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-17-2.png"
+  },
+  {
+    "id": 315,
+    "fecha": "2026-01-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-19.png"
+  },
+  {
+    "id": 316,
+    "fecha": "2026-01-20",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-20.png"
+  },
+  {
+    "id": 317,
+    "fecha": "2026-01-22",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-22.png"
+  },
+  {
+    "id": 318,
+    "fecha": "2026-01-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-23.png"
+  },
+  {
+    "id": 319,
+    "fecha": "2026-01-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-28.png"
+  },
+  {
+    "id": 320,
+    "fecha": "2026-01-28",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-01-28-1.png"
+  },
+  {
+    "id": 321,
+    "fecha": "2026-02-02",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-02.png"
+  },
+  {
+    "id": 322,
+    "fecha": "2026-02-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-04.png"
+  },
+  {
+    "id": 323,
+    "fecha": "2026-02-04",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-04-1.png"
+  },
+  {
+    "id": 324,
+    "fecha": "2026-02-04",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-04-2.png"
+  },
+  {
+    "id": 325,
+    "fecha": "2026-02-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-06.png"
+  },
+  {
+    "id": 326,
+    "fecha": "2026-02-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-07.png"
+  },
+  {
+    "id": 327,
+    "fecha": "2026-02-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-26.png"
+  },
+  {
+    "id": 328,
+    "fecha": "2026-02-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-02-27.png"
+  },
+  {
+    "id": 329,
+    "fecha": "2026-03-04",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-04.png"
+  },
+  {
+    "id": 330,
+    "fecha": "2026-03-06",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-06.png"
+  },
+  {
+    "id": 331,
+    "fecha": "2026-03-06",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-06-1.png"
+  },
+  {
+    "id": 332,
+    "fecha": "2026-03-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-07.png"
+  },
+  {
+    "id": 333,
+    "fecha": "2026-03-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-09.png"
+  },
+  {
+    "id": 334,
+    "fecha": "2026-03-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-12.png"
+  },
+  {
+    "id": 335,
+    "fecha": "2026-03-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-19.png"
+  },
+  {
+    "id": 336,
+    "fecha": "2026-03-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-25.png"
+  },
+  {
+    "id": 337,
+    "fecha": "2026-03-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-27.png"
+  },
+  {
+    "id": 338,
+    "fecha": "2026-03-30",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-30.png"
+  },
+  {
+    "id": 339,
+    "fecha": "2026-03-31",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-03-31.png"
+  },
+  {
+    "id": 340,
+    "fecha": "2026-04-01",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-01.png"
+  },
+  {
+    "id": 341,
+    "fecha": "2026-04-01",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-01-1.png"
+  },
+  {
+    "id": 342,
+    "fecha": "2026-04-02",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-02.png"
+  },
+  {
+    "id": 343,
+    "fecha": "2026-04-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-07.png"
+  },
+  {
+    "id": 344,
+    "fecha": "2026-04-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-13.png"
+  },
+  {
+    "id": 345,
+    "fecha": "2026-04-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-14.png"
+  },
+  {
+    "id": 346,
+    "fecha": "2026-04-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-16.png"
+  },
+  {
+    "id": 347,
+    "fecha": "2026-04-17",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-17.png"
+  },
+  {
+    "id": 348,
+    "fecha": "2026-04-18",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-18.png"
+  },
+  {
+    "id": 349,
+    "fecha": "2026-04-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-24.png"
+  },
+  {
+    "id": 350,
+    "fecha": "2026-04-25",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-04-25.png"
+  },
+  {
+    "id": 351,
+    "fecha": "2026-05-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-08.png"
+  },
+  {
+    "id": 352,
+    "fecha": "2026-05-11",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-11-1.png"
+  },
+  {
+    "id": 353,
+    "fecha": "2026-05-11",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-11-2.png"
+  },
+  {
+    "id": 354,
+    "fecha": "2026-05-11",
+    "orden": 4,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-11-3.png"
+  },
+  {
+    "id": 355,
+    "fecha": "2026-05-12",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-12.png"
+  },
+  {
+    "id": 356,
+    "fecha": "2026-05-13",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-13.png"
+  },
+  {
+    "id": 357,
+    "fecha": "2026-05-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-14.png"
+  },
+  {
+    "id": 358,
+    "fecha": "2026-05-15",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-15.png"
+  },
+  {
+    "id": 359,
+    "fecha": "2026-05-15",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-15-1.png"
+  },
+  {
+    "id": 360,
+    "fecha": "2026-05-16",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-16.png"
+  },
+  {
+    "id": 361,
+    "fecha": "2026-05-18",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-18.jpeg"
+  },
+  {
+    "id": 362,
+    "fecha": "2026-05-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-21.png"
+  },
+  {
+    "id": 363,
+    "fecha": "2026-05-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-05-26.png"
+  },
+  {
+    "id": 364,
+    "fecha": "2026-06-02",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-02.png"
+  },
+  {
+    "id": 365,
+    "fecha": "2026-06-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-05.png"
+  },
+  {
+    "id": 366,
+    "fecha": "2026-06-05",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-05-1.png"
+  },
+  {
+    "id": 367,
+    "fecha": "2026-06-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-08.png"
+  },
+  {
+    "id": 368,
+    "fecha": "2026-06-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-10.png"
+  },
+  {
+    "id": 369,
+    "fecha": "2026-06-10",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-10-1.png"
+  },
+  {
+    "id": 370,
+    "fecha": "2026-06-10",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-10-2.png"
+  },
+  {
+    "id": 371,
+    "fecha": "2026-06-11",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-11.png"
+  },
+  {
+    "id": 372,
+    "fecha": "2026-06-17",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-17.png"
+  },
+  {
+    "id": 373,
+    "fecha": "2026-06-19",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-19.png"
+  },
+  {
+    "id": 374,
+    "fecha": "2026-06-23",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-23.png"
+  },
+  {
+    "id": 375,
+    "fecha": "2026-06-24",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-24.png"
+  },
+  {
+    "id": 376,
+    "fecha": "2026-06-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-27.png"
+  },
+  {
+    "id": 377,
+    "fecha": "2026-06-30",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-30-1.png"
+  },
+  {
+    "id": 378,
+    "fecha": "2026-06-30",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-30-2.png"
+  },
+  {
+    "id": 379,
+    "fecha": "2026-06-30",
+    "orden": 4,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-06-30-3.png"
+  },
+  {
+    "id": 380,
+    "fecha": "2026-07-01",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-01-1.png"
+  },
+  {
+    "id": 381,
+    "fecha": "2026-07-01",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-01-2.png"
+  },
+  {
+    "id": 382,
+    "fecha": "2026-07-02",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-02-1.png"
+  },
+  {
+    "id": 383,
+    "fecha": "2026-07-02",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-02-2.png"
+  },
+  {
+    "id": 384,
+    "fecha": "2026-07-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-08.png"
+  },
+  {
+    "id": 385,
+    "fecha": "2026-07-09",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-09.png"
+  },
+  {
+    "id": 386,
+    "fecha": "2026-07-10",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-10.png"
+  },
+  {
+    "id": 387,
+    "fecha": "2026-07-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-14.png"
+  },
+  {
+    "id": 388,
+    "fecha": "2026-07-18",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-18-1.png"
+  },
+  {
+    "id": 389,
+    "fecha": "2026-07-18",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-18-2.png"
+  },
+  {
+    "id": 390,
+    "fecha": "2026-07-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-27.png"
+  },
+  {
+    "id": 391,
+    "fecha": "2026-07-27",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-27-1.jpeg"
+  },
+  {
+    "id": 392,
+    "fecha": "2026-07-29",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-29.png"
+  },
+  {
+    "id": 393,
+    "fecha": "2026-07-30",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-07-30.png"
+  },
+  {
+    "id": 394,
+    "fecha": "2026-08-05",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-05.png"
+  },
+  {
+    "id": 395,
+    "fecha": "2026-08-05",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-05-1.jpeg"
+  },
+  {
+    "id": 396,
+    "fecha": "2026-08-08",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-08.png"
+  },
+  {
+    "id": 397,
+    "fecha": "2026-08-14",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-14.png"
+  },
+  {
+    "id": 398,
+    "fecha": "2026-08-20",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-20-1.png"
+  },
+  {
+    "id": 399,
+    "fecha": "2026-08-20",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-20-2.png"
+  },
+  {
+    "id": 400,
+    "fecha": "2026-08-21",
+    "orden": 2,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-21-1.png"
+  },
+  {
+    "id": 401,
+    "fecha": "2026-08-21",
+    "orden": 3,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-21-2.png"
+  },
+  {
+    "id": 402,
+    "fecha": "2026-08-26",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-26.png"
+  },
+  {
+    "id": 403,
+    "fecha": "2026-08-27",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-27.png"
+  },
+  {
+    "id": 404,
+    "fecha": "2026-08-28",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-28.png"
+  },
+  {
+    "id": 405,
+    "fecha": "2026-08-31",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-08-31.png"
+  },
+  {
+    "id": 406,
+    "fecha": "2026-09-03",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-09-03.png"
+  },
+  {
+    "id": 407,
+    "fecha": "2026-09-07",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-09-07.png"
   }
 ]

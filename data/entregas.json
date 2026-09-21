@@ -3254,5 +3254,13 @@
     "marca": "",
     "modelo": "",
     "imagen": "img/entregas/2026-09-07.png"
+  },
+  {
+    "id": 408,
+    "fecha": "2026-09-21",
+    "orden": 1,
+    "marca": "",
+    "modelo": "",
+    "imagen": "img/entregas/2026-09-21.png"
   }
 ]

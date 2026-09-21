@@ -3259,8 +3259,16 @@
     "id": 408,
     "fecha": "2026-09-21",
     "orden": 1,
-    "marca": "",
-    "modelo": "",
+    "marca": "Gilera",
+    "modelo": "Smash Base 110cc",
     "imagen": "img/entregas/2026-09-21.png"
+  },
+  {
+    "id": 409,
+    "fecha": "2026-09-21",
+    "orden": 2,
+    "marca": "Gilera",
+    "modelo": "Smash Full 110cc",
+    "imagen": "img/entregas/2026-09-21-1.png"
   }
 ]

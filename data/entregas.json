@@ -3270,5 +3270,13 @@
     "marca": "Gilera",
     "modelo": "Smash Full 110cc",
     "imagen": "img/entregas/2026-09-21-1.png"
+  },
+  {
+    "id": 410,
+    "fecha": "2026-09-22",
+    "orden": 2,
+    "marca": "Ford",
+    "modelo": "Ecosport 2019",
+    "imagen": "img/entregas/2026-09-22.png"
   }
 ]

@@ -3278,5 +3278,13 @@
     "marca": "Ford",
     "modelo": "Ecosport 2019",
     "imagen": "img/entregas/2026-09-22.png"
+  },
+  {
+    "id": 411,
+    "fecha": "2026-09-25",
+    "orden": 2,
+    "marca": "Honda",
+    "modelo": "Wave 110cc",
+    "imagen": "img/entregas/2026-09-25.png"
   }
 ]

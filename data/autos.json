@@ -403,6 +403,48 @@
     ]
   },
   {
+    "id": 43,
+    "marca": "Renault",
+    "modelo": "Sandero Authentic",
+    "anio": 2017,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "1.6",
+    "potencia": "105 HP",
+    "transmision": "Manual 5 velocidades",
+    "combustible": "50 L",
+    "imagen": "img/autos/RENAULT/renault-sandero-2017-blanco.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/RENAULT/renault-sandero-2017-blanco.png"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "marca": "Renault",
+    "modelo": "Logan Authentic",
+    "anio": 2017,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "1.6",
+    "potencia": "85 HP",
+    "transmision": "Manual 5 velocidades",
+    "combustible": "50 L",
+    "imagen": "img/autos/RENAULT/renault-logan-2017-gris-plata.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/RENAULT/renault-logan-2017-gris-plata.png"
+      }
+    ]
+  },
+  {
     "id": 25,
     "marca": "Renault",
     "modelo": "Duster",
@@ -462,6 +504,27 @@
       {
         "nombre": "Frente 3/4",
         "imagen": "img/autos/TOYOTA/toyota-hilux-sr-4x4-2019-gris-oscuro-frente-3-4.png"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "marca": "Toyota",
+    "modelo": "Hilux DX 4X4",
+    "anio": 2020,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "2.8",
+    "potencia": "150 HP",
+    "transmision": "Manual 6 velocidades",
+    "combustible": "80 L",
+    "imagen": "img/autos/TOYOTA/toyota-hilux-dx-4x4-2020-rojo.png",
+    "vistas": [
+      {
+        "nombre": "Frente 3/4",
+        "imagen": "img/autos/TOYOTA/toyota-hilux-dx-4x4-2020-rojo.png"
       }
     ]
   },
@@ -598,6 +661,27 @@
     ]
   },
   {
+    "id": 45,
+    "marca": "Volkswagen",
+    "modelo": "Voyage",
+    "anio": 2010,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 4,
+    "motor": "1.6",
+    "potencia": "101 HP",
+    "transmision": "Manual 5 velocidades",
+    "combustible": "55 L",
+    "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2010-gris-oscuro.png",
+    "vistas": [
+      {
+        "nombre": "Frente",
+        "imagen": "img/autos/VOLKSWAGEN/vw-voyage-2010-gris-oscuro.png"
+      }
+    ]
+  },
+  {
     "id": 30,
     "marca": "Volkswagen",
     "modelo": "Amarok 4X2",
@@ -615,6 +699,27 @@
       {
         "nombre": "Frente 3/4",
         "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata-frente-3-4.png"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend",
+    "anio": 2014,
+    "condicion": "Usado",
+    "disponibilidad": "stock",
+    "destacado": false,
+    "puertas": 5,
+    "motor": "1.6",
+    "potencia": "101 HP",
+    "transmision": "Manual 5 velocidades",
+    "combustible": "55 L",
+    "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-frente-3-4.png",
+    "vistas": [
+      {
+        "nombre": "Frente",
+        "imagen": "img/autos/VOLKSWAGEN/vw-gol-trend-2017-rojo-frente-3-4.png"
       }
     ]
   },

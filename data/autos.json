@@ -21,69 +21,6 @@
     ]
   },
   {
-    "id": 2,
-    "marca": "Chevrolet",
-    "modelo": "Onix JOY",
-    "anio": 2018,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 4,
-    "motor": "1.4",
-    "potencia": "98 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/CHEVROLET/chevrolet-onix-joy-2018-blanco-frente-3-4.png"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "marca": "Chevrolet",
-    "modelo": "Onix LTZ",
-    "anio": 2019,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 4,
-    "motor": "1.4",
-    "potencia": "98 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/CHEVROLET/chevrolet-onix-ltz-2019-blanco-frente-3-4.png"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "marca": "Chevrolet",
-    "modelo": "Prisma JOY",
-    "anio": 2017,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 4,
-    "motor": "1.4",
-    "potencia": "98 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "48 L",
-    "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/CHEVROLET/chevrolet-prisma-joy-2017-blanco-frente-3-4.png"
-      }
-    ]
-  },
-  {
     "id": 6,
     "marca": "Dodge",
     "modelo": "RAM Laramie 4X4",
@@ -340,27 +277,6 @@
     ]
   },
   {
-    "id": 18,
-    "marca": "Ford",
-    "modelo": "Eco Sport",
-    "anio": 2019,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 5,
-    "motor": "1.5",
-    "potencia": "123 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "52 L",
-    "imagen": "img/autos/FORD/ford-ecosport-2019-blanco-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/FORD/ford-ecosport-2019-blanco-frente-3-4.png"
-      }
-    ]
-  },
-  {
     "id": 19,
     "marca": "Ford",
     "modelo": "KA S",
@@ -420,48 +336,6 @@
       {
         "nombre": "Frente 3/4",
         "imagen": "img/autos/FORD/ford-territory-2026-gris-frente-3-4.png"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "marca": "Peugeot",
-    "modelo": "308 AT Sport",
-    "anio": 2013,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 5,
-    "motor": "1.8",
-    "potencia": "165 HP",
-    "transmision": "Automático 6 velocidades",
-    "combustible": "60 L",
-    "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/PEUGEOT/peugeot-308-2013-blanco-frente-3-4.png"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "marca": "Peugeot",
-    "modelo": "208",
-    "anio": 2014,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 5,
-    "motor": "1.6",
-    "potencia": "115 HP",
-    "transmision": "Manual 5 velocidades",
-    "combustible": "50 L",
-    "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/PEUGEOT/peugeot-208-2014-gris-frente-3-4.png"
       }
     ]
   },
@@ -741,27 +615,6 @@
       {
         "nombre": "Frente 3/4",
         "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2014-gris-plata-frente-3-4.png"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "marca": "Volkswagen",
-    "modelo": "Amarok 4X2",
-    "anio": 2015,
-    "condicion": "Usado",
-    "disponibilidad": "stock",
-    "destacado": false,
-    "puertas": 4,
-    "motor": "2.0",
-    "potencia": "180 HP",
-    "transmision": "Manual 6 velocidades",
-    "combustible": "80 L",
-    "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado-frente-3-4.png",
-    "vistas": [
-      {
-        "nombre": "Frente 3/4",
-        "imagen": "img/autos/VOLKSWAGEN/vw-amarok-4x2-2015-dorado-frente-3-4.png"
       }
     ]
   },

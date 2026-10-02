@@ -3286,5 +3286,13 @@
     "marca": "Honda",
     "modelo": "Wave 110cc",
     "imagen": "img/entregas/2026-09-25.png"
+  },
+  {
+    "id": 412,
+    "fecha": "2026-10-01",
+    "orden": 2,
+    "marca": "Chevrolet",
+    "modelo": "Onix LTZ 2019",
+    "imagen": "img/entregas/2026-10-01.jpeg"
   }
 ]

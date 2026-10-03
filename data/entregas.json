@@ -3294,5 +3294,13 @@
     "marca": "Chevrolet",
     "modelo": "Onix LTZ 2019",
     "imagen": "img/entregas/2026-10-01.jpeg"
+  },
+  {
+    "id": 413,
+    "fecha": "2026-10-03",
+    "orden": 2,
+    "marca": "Volkswagen",
+    "modelo": "Gol Power 2013",
+    "imagen": "img/entregas/2026-10-03.png"
   }
 ]

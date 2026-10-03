@@ -3282,13 +3282,21 @@
   {
     "id": 411,
     "fecha": "2026-09-25",
-    "orden": 2,
+    "orden": 1,
     "marca": "Honda",
     "modelo": "Wave 110cc",
     "imagen": "img/entregas/2026-09-25.png"
   },
   {
     "id": 412,
+    "fecha": "2026-09-25",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "Skua 125cc",
+    "imagen": "img/entregas/2026-09-25-1.png"
+  },
+  {
+    "id": 413,
     "fecha": "2026-10-01",
     "orden": 2,
     "marca": "Chevrolet",
@@ -3296,7 +3304,7 @@
     "imagen": "img/entregas/2026-10-01.jpeg"
   },
   {
-    "id": 413,
+    "id": 414,
     "fecha": "2026-10-03",
     "orden": 2,
     "marca": "Volkswagen",

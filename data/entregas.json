@@ -3308,7 +3308,15 @@
     "fecha": "2026-10-03",
     "orden": 2,
     "marca": "Volkswagen",
-    "modelo": "Gol Power 2013",
+    "modelo": "Gol Power 2011",
     "imagen": "img/entregas/2026-10-03.png"
+  },
+  {
+    "id": 415,
+    "fecha": "2026-10-05",
+    "orden": 2,
+    "marca": "Ford",
+    "modelo": "Ka Viral 2013",
+    "imagen": "img/entregas/2026-10-05.png"
   }
 ]

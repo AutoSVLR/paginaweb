@@ -3318,5 +3318,13 @@
     "marca": "Ford",
     "modelo": "Ka Viral 2013",
     "imagen": "img/entregas/2026-10-05.png"
+  },
+  {
+    "id": 416,
+    "fecha": "2026-10-07",
+    "orden": 2,
+    "marca": "Peugeot",
+    "modelo": "208 - 2014",
+    "imagen": "img/entregas/2026-10-07.png"
   }
 ]

@@ -3334,5 +3334,13 @@
     "marca": "Chevrolet",
     "modelo": "Onix JOY 2018",
     "imagen": "img/entregas/2026-10-08.png"
+  },
+  {
+    "id": 417,
+    "fecha": "2026-10-13",
+    "orden": 2,
+    "marca": "Motomel",
+    "modelo": "Blitz One 110cc",
+    "imagen": "img/entregas/2026-10-13.png"
   }
 ]

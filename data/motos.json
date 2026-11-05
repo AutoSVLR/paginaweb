@@ -1,5 +1,49 @@
 [
   {
+    "id": 36,
+    "marca": "Kamax",
+    "modelo": "CUB PRO K 110",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "110cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "3.8 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/KAMAX/kamax-cubprok110.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/KAMAX/kamax-cubprok110.png"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": 37,
+    "marca": "Kamax",
+    "modelo": "AL 125",
+    "anio": 2026,
+    "tipo": "Urbana",
+    "condicion": "0KM",
+    "disponibilidad": "pedido",
+    "motor": "125cc",
+    "transmision": "Semiautomático, 4 velocidades",
+    "combustible": "4.5 L",
+    "frenos": "Disco / Tambor",
+    "imagen": "img/motos/KAMAX/kamax-al125.png",
+    "colores": [
+      {
+        "nombre": "Negro",
+        "hex": "#1A1A1A",
+        "imagen": "img/motos/KAMAX/kamax-al125.png"
+      }
+    ],
+    "destacado": true
+  },
+  {
     "id": 1,
     "marca": "Honda",
     "modelo": "Wave S 110cc",
@@ -34,7 +78,7 @@
         "imagen": "img/motos/HONDA/honda-wave110-blanco.png"
       }
     ],
-    "destacado": true
+    "destacado": false
   },
   {
     "id": 2,
@@ -108,7 +152,7 @@
         "imagen": "img/motos/HONDA/honda-glh150-negro.png"
       }
     ],
-    "destacado": true
+    "destacado": false
   },
   {
     "id": 4,
